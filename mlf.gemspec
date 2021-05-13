@@ -1,18 +1,17 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "freelancer-theme-jekyll"
+  spec.name                    = "MLF"
   spec.version                 = "1.0.1"
-  spec.authors                 = ["Start Bootstrap"]
-
-  spec.summary                 = %q{Freelancer is a one page Bootstrap portfolio theme for freelancers.}
-  spec.homepage                = "https://github.com/jeromelachaud/freelancer-theme"
-  spec.licenses                = ["MIT"]
+  spec.summary                 = %q{na}
+  spec.homepage                = "http://mlf.halcyonlane.com"
+  spec.authors                 = "me"
+  spec.licenses                = ["n/a"]
 
   spec.metadata["plugin_type"] = "theme"
 
   spec.files                   = `git ls-files -z`.split("\x0").select do |f|
-    f.match(%r{^(assets|_(includes|layouts|posts)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
+    f.match(%r{^(assets|_(includes|layouts|posts)/|((\.(txt|md|markdown)|$)))}i)
   end
 
   spec.add_runtime_dependency "jekyll", "~> 4.0"
