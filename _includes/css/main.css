@@ -180,9 +180,14 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
+section.blue {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+section.white {
+    color: #black;
+    background: #white
 }
 
 @media(max-width:767px) {
