@@ -8,8 +8,16 @@ body {
     overflow-x: hidden;
 }
 
+ol,
+ul,
+li,
 p {
     font-size: 20px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+p.medium {
 }
 
 p.small {
@@ -183,6 +191,14 @@ section h2 {
 section.blue {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+a.link-white {
+  color: white;
+}
+
+section.blue.a {
+  color: white
 }
 
 section.white {
