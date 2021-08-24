@@ -195,6 +195,7 @@ section.blue {
 
 a.link-white {
   color: white;
+  text-decoration: underline;
 }
 
 section.blue.a {
