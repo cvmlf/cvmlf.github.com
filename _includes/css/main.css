@@ -24,6 +24,10 @@ p.small {
     font-size: 16px;
 }
 
+li.small {
+    font-size: 12px;
+}
+
 a,
 a:hover,
 a:focus,
