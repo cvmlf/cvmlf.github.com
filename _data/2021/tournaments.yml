@@ -1,0 +1,197 @@
+- id: 2
+  lake: Montanis
+  date: Saturday May 8th
+  big_bass: Big Bass 4.50 lbs (Harley E.)
+  results:
+  - name: Harley E.
+    weight: 6.00 lbs
+    fish: 2
+    points: '7.34'
+  - name: Dan J.
+    weight: 5.13 lbs
+    fish: 2
+    points: '4.84'
+  - name: Tony E.
+    weight: 1.70 lbs
+    fish: 1
+    points: '3.34'
+  - name: Anthony E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Joey E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+
+- id: 3
+  lake: Cornell Lake
+  date: Saturday June 12th
+  big_bass: Big Bass 3.06 lbs (tie between Dan J. and Justin B.)
+  results:
+  - name: Tony E.
+    weight: 6.62 lbs
+    fish: 4
+    points: '8.55'
+  - name: Justin B.
+    weight: 6.18 lbs
+    fish: 4
+    points: '7.55'
+  - name: Dan J.
+    weight: 5.30 lbs
+    fish: 3
+    points: '6.05'
+  - name: Anthony E.
+    weight: 4.63 lbs
+    fish: 2
+    points: '4.05'
+  - name: Harley E.
+    weight: 3.20 lbs
+    fish: 3
+    points: '3.05'
+  - name: Dave B.
+    weight: 1.70 lbs
+    fish: 1
+    points: '2.05'
+  - name: Will A.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Carsen C.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Jed B.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Justin S.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Kaden C.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+
+- id: 4
+  lake: Halfmoon Lake
+  date: Saturday July 17th
+  big_bass: Big Bass 2.30 lbs (Joey E.)
+  results:
+  - name: Harley E.
+    weight: 4.30 lbs
+    fish: 3
+    points: '8.91'
+  - name: Tony E.
+    weight: 4.05 lbs
+    fish: 3
+    points: '7.41'
+  - name: Joey E.
+    weight: 3.40 lbs
+    fish: 2
+    points: '6.91'
+  - name: Dan J.
+    weight: 2.33 lbs
+    fish: 2
+    points: '4.41'
+  - name: Scott C.
+    weight: 1.90 lbs
+    fish: 1
+    points: '3.41'
+  - name: Tim I.
+    weight: 1.38 lbs
+    fish: 1
+    points: '2.41'
+  - name: Ezekiel I.
+    weight: 1.06 lbs
+    fish: 1
+    points: '2.00'
+  - name: Malachi I.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Carsen C.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Jed I.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Anthony E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Kaden C.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+
+- id: 5
+  lake: Amacoy Lake
+  date: Saturday July 31st
+  big_bass: Big Bass 1.94 lbs (Harley E.)
+  results:
+  - name: Harley E.
+    weight: 3.38 lbs
+    fish: 2
+    points: '6.97'
+  - name: Tony E.
+    weight: 1.69 lbs
+    fish: 1
+    points: '4.47'
+  - name: Anthony E.
+    weight: 1.40 lbs
+    fish: 1
+    points: '2.97'
+  - name: Joey E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+
+- id: 6
+  lake: Silver Lake
+  date: Saturday August 21st
+  big_bass: Big Bass 3.69 lbs (Harley E.)
+  results:
+  - name: Harley E.
+    weight: 10.57 lbs
+    fish: 5
+    points: '9.18'
+  - name: Tony E.
+    weight: 10.32 lbs
+    fish: 8
+    points: '6.68'
+  - name: Justin B.
+    weight: 7.00 lbs
+    fish: 6
+    points: '5.18'
+  - name: Anthony E.
+    weight: 5.31 lbs
+    fish: 5
+    points: '3.68'
+  - name: Dan J.
+    weight: 5.24 lbs
+    fish: 2
+    points: '2.68'
+  - name: Joey E.
+    weight: 4.90 lbs
+    fish: 4
+    points: '2.00'
+  - name: Charlie V.
+    weight: 2.19 lbs
+    fish: 2
+    points: '2.00'
+  - name: Dave B.
+    weight: 1.40 lbs
+    fish: 1
+    points: '2.00'
+  - name: Josh V.
+    weight: 1.06 lbs
+    fish: 1
+    points: '2.00'
+  - name: Jed B.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
