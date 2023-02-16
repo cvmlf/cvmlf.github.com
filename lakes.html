@@ -1,0 +1,31 @@
+---
+title: Lake Options
+layout: sub-pages
+---
+
+<section id="lakes">
+    <div class="container portfolio-flex-grid">
+        <div class="portfolio-flex-row">
+          <ul>
+          {% for lake in site.data.lakes %}
+            <li>
+              <p>{{ lake.lake }}</p>
+              <p><a target="_blank" 
+                             rel="noopener noreferrer" href="{{ lake.dnr_link }}">
+                WI DNR Lake Info
+                                    </a>
+              </p>
+              <p><a target="_blank" 
+                             rel="noopener noreferrer" href="{{ lake.map_link }}">
+               Contour Map 
+                                    </a>
+              </p>
+              <p>Distance from Eau Claire: {{ lake.distance_from_ec }} miles</p>
+              <p>{{ lake.notes }}</p>
+              <hr/>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+    </div>
+</section>
