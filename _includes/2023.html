@@ -4,7 +4,7 @@
         <div class="container portfolio-flex-grid">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                  <h2>2022 {{ site.nav_schedule }}</h2>
+                  <h2>2023 {{ site.nav_schedule }}</h2>
                     <hr class="star-primary" />
                 </div>
             </div>
@@ -12,23 +12,23 @@
             <div class="portfolio-flex-row">
               <p>
                 <ul>
-                {% for t in site.data.2022.tournaments %}
+                {% for t in site.data.2023.tournaments %}
                   <li>
                     {{ t.date }} -                    
                     <a target="_blank" 
                       rel="noopener noreferrer" 
-                      data-toggle="modal" data-target="#{{ t.id }}-2022">
+                      data-toggle="modal" data-target="#{{ t.id }}-2023">
                       {{ t.lake }}
                                           </a>
                   </li>
                 {% endfor %}
                 
                   <li class="page-scroll">
-                    Saturday Sept 10th - 
+                    Saturday Sept 9th - 
                     <a target="_blank"
                        rel="noopener noreferrer" 
-                       data-toggle="modal" data-target="#long-lake-2022">
-                      Long Lake Championship
+                       data-toggle="modal" data-target="#otter-lake-2023">
+                      Otter Lake Championship
                     </a>
                   </li>
                 </ul>
@@ -40,16 +40,24 @@
                 <a target="_blank"
                    rel="noopener noreferrer"
                    data-toggle="modal"
-                   data-target="#standings-2022">
+                   data-target="#standings-2023">
                 Angler Of The Year Points Standings
                 </a>
               </p>
             </div>
+
+            <div class="col-lg-12 text-center">
+                <p class="small">
+                  <br/>
+                  For past results go 
+                  <a href="{{site.url}}/past-results/index.html">here</a>
+                </p>
+              </div>
         </div>
     </section>
 
-<!-- Standings 2022 -->
-<div class="modal fade" id="standings-2022" role="dialog" aria-labelledby="points standings" aria-hidden="true">
+<!-- Standings 2023 -->
+<div class="modal fade" id="standings-2023" role="dialog" aria-labelledby="points standings" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -67,7 +75,7 @@
                   <th>Tournaments</th>
                 </tr>
               </thead>
-              {% for results in site.data.2022.standings %}
+              {% for results in site.data.2023.standings %}
                 <tr>
                   <td>{{ results.name }}</td>
                   <td>{{ results.points }}</td>
@@ -76,8 +84,7 @@
               {% endfor %}
             </table>
                   <p>
-                    Big bass of the year - Harley E.  <br/>
-3.81 lb smallmouth at Dells Pond
+                    Big bass of the year - tbd.  <br/>
                   </p>
                   <small>
 Each tournament calculates points as follows: 
@@ -96,8 +103,8 @@ Each competitor was able to drop their lowest two tournaments of the year.
 </div>
 
 
-{% for t in site.data.2022.tournaments %}
-        <div class="modal fade" id="{{ t.id }}-2022" role="dialog" aria-labelledby="{{ t.lake }}" aria-hidden="true">
+{% for t in site.data.2023.tournaments %}
+        <div class="modal fade" id="{{ t.id }}-2023" role="dialog" aria-labelledby="{{ t.lake }}" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                   <div class="modal-header">
@@ -106,31 +113,60 @@ Each competitor was able to drop their lowest two tournaments of the year.
                       <span aria-hidden="true">&times;</span>
                     </button>
                   </div>
+                  
                   <div class="modal-body">
                     <p>{{ t.date }} - {{ t.lake }}</p>
-                                <p>Results</p>
-                                <table class="table table-condensed table-striped">
-                                  <thead>
-                                    <tr>
-                                      <th>Name</th>
-                                      <th>Fish</th>
-                                      <th>Weight</th>
-                                      <th>Points</th>
-                                    </tr>
-                                  </thead>
-                                  
-      {% for results in t.results %}
-        <tr>
-          <td>{{ results.name }}</td>
-          <td>{{ results.fish }}</td>
-          <td>{{ results.weight }}</td>
-          <td>{{ results.points }}</td>
-        </tr>
-      {% endfor %}
-                                </table>
-                                <p>
-             {{ t.big_bass}} 
-                                </p>
+                    {% if t.results.size > 0 %}
+
+                    <p>Results</p>
+                    <table class="table table-condensed table-striped">
+                      <thead>
+                        <tr>
+                          <th>Name</th>
+                          <th>Fish</th>
+                          <th>Weight</th>
+                          <th>Points</th>
+                        </tr>
+                      </thead>
+                      
+                        {% for results in t.results %}
+                        <tr>
+                        <td>{{ results.name }}</td>
+                        <td>{{ results.fish }}</td>
+                        <td>{{ results.weight }}</td>
+                        <td>{{ results.points }}</td>
+                        </tr>
+                        {% endfor %}
+                    </table>
+                    <p>
+                        {{ t.big_bass}} 
+                    </p>
+                    {% else %}
+
+                    {% for l in site.data.lakes %}
+                        {% if l.lake == t.lake %}
+                          {% assign lake = l %}
+                        {% endif %}
+                    {% endfor %}
+                      <p>
+                        <p>
+                          <a target="_blank" rel="noopener noreferrer" href="{{ lake.dnr_link }}">
+                             WI DNR Lake Info
+                          </a>
+                        </p>
+                        <p>
+                          <a target="_blank" rel="noopener noreferrer" href="{{ lake.map_link }}">
+                             Contour Map 
+                          </a>
+                        </p>
+                        <p>{{ lake.notes }}</p>
+                        <p>
+                          Details TBD
+                        </p>
+                      </p>
+
+                    {% endif %}
+
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -141,53 +177,37 @@ Each competitor was able to drop their lowest two tournaments of the year.
   
 {% endfor %}
 
-<div class="modal fade" id="long-lake-2022" role="dialog" aria-labelledby="long lake" aria-hidden="true">
+{% for l in site.data.lakes %}
+    {% if l.lake == "Otter Lake" %}
+      {% assign lake = l %}
+    {% endif %}
+{% endfor %}
+<div class="modal fade" id="otter-lake-2023" role="dialog" aria-labelledby="otter lake" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 class="modal-title">Long Lake - Championship Cup</h3>
+        <h3 class="modal-title">{{ lake.lake }} - Championship Cup</h3>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-
-
+            
       <div class="modal-body">
-        <p> Saturday September 10th - Long Lake</p>
+        <p>Saturday September 9th - {{lake.lake}}</p>
         <p>
-          Qualifying round - 8:00 to 11:00
-          <br/>
-          Championship round - 12:30 to 3:30
+          <a target="_blank" rel="noopener noreferrer" href="{{ lake.dnr_link }}">
+             WI DNR Lake Info
+          </a>
         </p>
         <p>
-          Results of Championship round:
+          <a target="_blank" rel="noopener noreferrer" href="{{ lake.map_link }}">
+             Contour Map 
+          </a>
         </p>
-                      <pre>
-Name       Fish   Weight   
-Joey E.     4     5.57 lbs 
-Anthony E.  2     2.75 lbs
-Dan J.      0     0.00 lbs (won tie breaker)
-Justin B.   0     0.00 lbs
-                      </pre>    
-                      <p>
-                        Results of Qualifying round:
-                      </p>
-                      <pre>
-Target weight: 5 lbs
-Name       Fish   Weight   
-Anthony E.  3     5.50 lbs
-Dan J.      4     5.96 lbs 
-Joey E.     2     4.06 lbs 
-Justin B.   2     3.38 lbs
-------- Cut Line ---------
-Harley E.   2     3.20 lbs
-Tony E.     2     2.79 lbs 
-Cael H.     0     0.00 lbs
-Josh V.     0     0.00 lbs
-                      </pre>    
-<pre>
-Big bass 2.56 lbs (Joey E.)
-</pre>
+        <p>{{ lake.notes }}</p>
+        <p>
+          Details TBD
+        </p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -195,6 +215,4 @@ Big bass 2.56 lbs (Joey E.)
     </div>
   </div>
 </div>
-
-
 

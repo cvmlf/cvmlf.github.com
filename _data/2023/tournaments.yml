@@ -1,0 +1,24 @@
+- id: 7
+  lake: Lake Eau Galle
+  date: Saturday April 29th
+  big_bass:
+
+- id: 8
+  lake: Lake Eau Claire
+  date: Saturday May 13th
+  big_bass: 
+
+- id: 9
+  lake: Mead Lake
+  date: Saturday June 10th
+  big_bass: 
+
+- id: 10
+  lake: Silver Lake
+  date: Saturday July 22rd
+  big_bass: 
+
+- id: 11
+  lake: Long Lake
+  date: Saturday August 19th
+  big_bass: 
