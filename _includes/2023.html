@@ -1,5 +1,5 @@
 
-    <!-- Grid Section -->
+    <!-- Main Schedule -->
     <section id="schedule">
         <div class="container portfolio-flex-grid">
             <div class="row">
@@ -18,23 +18,18 @@
                     <a target="_blank" 
                       rel="noopener noreferrer" 
                       data-toggle="modal" data-target="#{{ t.id }}-2023">
-                      {{ t.lake }}
-                                          </a>
+                      {{ t.lake }} 
+                      {% if t.championship == true %} Championship {% endif %}
+                      {% if t.heavy_hitters == true %} (Heavy Hitters) {% endif %}
+                      {% if t.team == true %} (Team Challenge) {% endif %}
+                                          
+                    </a>
                   </li>
                 {% endfor %}
                 
-                  <li class="page-scroll">
-                    Saturday Sept 9th - 
-                    <a target="_blank"
-                       rel="noopener noreferrer" 
-                       data-toggle="modal" data-target="#otter-lake-2023">
-                      Otter Lake Championship
-                    </a>
-                  </li>
                 </ul>
               </p>
             </div>
-
             <div class="col-lg-12 text-center">
               <p>
                 <a target="_blank"
@@ -98,12 +93,20 @@
 </div>
 
 
+<!-- Modal popups for tournament details -->
+
 {% for t in site.data.2023.tournaments %}
         <div class="modal fade" id="{{ t.id }}-2023" role="dialog" aria-labelledby="{{ t.lake }}" aria-hidden="true">
               <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                   <div class="modal-header">
-                    <h3 class="modal-title">{{ t.lake }} Tournament</h3>
+                    <h3 class="modal-title">{{ t.lake }} 
+                      {% if t.championship == true %} 
+                        Championship Cup
+                      {% else %}
+                        Tournament
+                      {% endif %}
+                    </h3>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                       <span aria-hidden="true">&times;</span>
                     </button>
@@ -111,54 +114,85 @@
                   
                   <div class="modal-body">
                     <p>{{ t.date }} - {{ t.lake }}</p>
+
+
                     {% if t.results.size > 0 %}
 
-                    <p>Results</p>
-                    <table class="table table-condensed table-striped">
-                      <thead>
-                        <tr>
-                          <th>Name</th>
-                          <th>Fish</th>
-                          <th>Weight</th>
-                          <th>Points</th>
-                        </tr>
-                      </thead>
-                      
-                        {% for results in t.results %}
-                        <tr>
-                        <td>{{ results.name }}</td>
-                        <td>{{ results.fish }}</td>
-                        <td>{{ results.weight }}</td>
-                        <td>{{ results.points }}</td>
-                        </tr>
-                        {% endfor %}
-                    </table>
-                    <p>
-                        {{ t.big_bass}} 
-                    </p>
+                        <p>Results</p>
+                        <table class="table table-condensed table-striped">
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Fish</th>
+                              <th>Weight</th>
+                              <th>Points</th>
+                            </tr>
+                          </thead>
+                          
+                            {% for results in t.results %}
+                            <tr>
+                            <td>{{ results.name }}</td>
+                            <td>{{ results.fish }}</td>
+                            <td>{{ results.weight }}</td>
+                            <td>{{ results.points }}</td>
+                            </tr>
+                            {% endfor %}
+                        </table>
+                        <p>
+                            {{ t.big_bass}} 
+                        </p>
+
+
                     {% else %}
 
-                    {% for l in site.data.lakes %}
-                        {% if l.lake == t.lake %}
-                          {% assign lake = l %}
-                        {% endif %}
-                    {% endfor %}
-                      <p>
+                        {% for l in site.data.lakes %}
+                            {% if l.lake == t.lake %}
+                              {% assign lake = l %}
+                            {% endif %}
+                        {% endfor %}
                         <p>
-                          <a target="_blank" rel="noopener noreferrer" href="{{ lake.dnr_link }}">
-                             WI DNR Lake Info
-                          </a>
+                          <p>
+                            <a target="_blank" rel="noopener noreferrer" href="{{ lake.dnr_link }}">
+                               WI DNR Lake Info
+                            </a>
+                          </p>
+                          <p>
+                            <a target="_blank" rel="noopener noreferrer" href="{{ lake.map_link }}">
+                               Contour Map 
+                            </a>
+                          </p>
+                          {% if t.landing %}
+                            <p>
+                              <a href="{{ t.landing }}"
+                                 target="_blank"
+                                 rel="noopener noreferrer">
+                                Boat Landing
+                              </a>
+                            </p>
+                          {% endif %}
+
+                          {% if t.period1 %}
+                            <p>
+                              Pre-launch meeting: {{ t.meeting }}
+                              <br/>
+                              Lake Scouting 15 minutes prior to lines in
+                              <br/>
+                              Period 1 - {{ t.period1 }}
+                              <br/>
+                              Period 2 - {{ t.period2 }}
+                              <br/>
+                              Awards around {{ t.awards }}
+                            </p>
+
+                            {% else %}
+
+                              <p>{{ lake.notes }}</p>
+                              <p>
+                                Details TBD
+                              </p>
+
+                            {% endif %}  
                         </p>
-                        <p>
-                          <a target="_blank" rel="noopener noreferrer" href="{{ lake.map_link }}">
-                             Contour Map 
-                          </a>
-                        </p>
-                        <p>{{ lake.notes }}</p>
-                        <p>
-                          Details TBD
-                        </p>
-                      </p>
 
                     {% endif %}
 
@@ -171,43 +205,4 @@
             </div>
   
 {% endfor %}
-
-{% for l in site.data.lakes %}
-    {% if l.lake == "Otter Lake" %}
-      {% assign lake = l %}
-    {% endif %}
-{% endfor %}
-<div class="modal fade" id="otter-lake-2023" role="dialog" aria-labelledby="otter lake" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h3 class="modal-title">{{ lake.lake }} - Championship Cup</h3>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-            
-      <div class="modal-body">
-        <p>Saturday September 9th - {{lake.lake}}</p>
-        <p>
-          <a target="_blank" rel="noopener noreferrer" href="{{ lake.dnr_link }}">
-             WI DNR Lake Info
-          </a>
-        </p>
-        <p>
-          <a target="_blank" rel="noopener noreferrer" href="{{ lake.map_link }}">
-             Contour Map 
-          </a>
-        </p>
-        <p>{{ lake.notes }}</p>
-        <p>
-          Details TBD
-        </p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
 
