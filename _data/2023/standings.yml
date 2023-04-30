@@ -1,3 +1,36 @@
-- name: n/a.
-  points: '0'
-  tournaments: 0
+- name: Dave B.
+  points: '9.91'
+  tournaments: 1
+- name: Justin B.
+  points: '7.41'
+  tournaments: 1
+- name: Tony E.
+  points: '5.91'
+  tournaments: 1
+- name: Harley E.
+  points: '4.41'
+  tournaments: 1
+- name: Anthony E.
+  points: '3.41'
+  tournaments: 1
+- name: Joey E.
+  points: '2.41'
+  tournaments: 1
+- name: Jed B.
+  points: '2.00'
+  tournaments: 1
+- name: Cael H.
+  points: '2.00'
+  tournaments: 1
+- name: Dan J.
+  points: '2.00'
+  tournaments: 1
+- name: Charles V.
+  points: '1.00'
+  tournaments: 1
+- name: Josh V.
+  points: '1.00'
+  tournaments: 1
+- name: Matt V.
+  points: '1.00'
+  tournaments: 1

@@ -19,7 +19,56 @@
   period2: 1:00 - 4:00 pm
   landing: http://maps.google.com/maps?q=44.70144020,+-92.01314570&hl=en&sll=44.70144020,-92.01314570&sspn=0.462242,0.88028&t=h&z=16
   awards:  4:30 pm 
-  big_bass:
+  big_bass: Big Bass 3.85 lbs (Dave B.)
+  results:
+  - name: Dave B.
+    weight: 9.05 lbs
+    fish: 3
+    points: '9.91'
+  - name: Justin B.
+    weight: 7.85 lbs
+    fish: 4
+    points: '7.41'
+  - name: Tony E.
+    weight: 5.78 lbs
+    fish: 3
+    points: '5.91'
+  - name: Harley E.
+    weight: 5.26 lbs
+    fish: 3
+    points: '4.41'
+  - name: Anthony E.
+    weight: 4.73 lbs
+    fish: 3
+    points: '3.41'
+  - name: Joey E.
+    weight: 1.75 lbs
+    fish: 1
+    points: '2.41'
+  - name: Jed B.
+    weight: 1.45 lbs
+    fish: 1
+    points: '2.00'
+  - name: Dan J.
+    weight: 1.30 lbs
+    fish: 1
+    points: '2.00'
+  - name: Cael H.
+    weight: 1.10 lbs
+    fish: 1
+    points: '2.00'
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Charles V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Matt V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 
 - id: 8
   lake: Lake Eau Claire
