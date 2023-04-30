@@ -24,3 +24,18 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+
+
+// load the live results from the website
+    $(document).ready(function() {
+      console.log( "ready!" );
+      $.ajax({
+        url: "http://localhost:3000/live",
+        cache: false
+      })
+      .done(function( html ) {
+        $( "#cooldude" ).append( html );
+        alert(html)
+      });
+    });
