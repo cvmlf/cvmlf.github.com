@@ -28,14 +28,15 @@ $('.navbar-collapse ul li a').click(function() {
 
 
 // load the live results from the website
-    $(document).ready(function() {
-      console.log( "ready!" );
-      $.ajax({
-        url: "http://localhost:3000/live",
-        cache: false
-      })
-      .done(function( html ) {
-        $( "#cooldude" ).append( html );
-        alert(html)
-      });
-    });
+$(document).ready(function() {
+  $.ajax({
+    //url: "http://localhost:3000/live",
+    url: "https://cvmlf.herokuapp.com/live",
+    cache: false
+  })
+  .done(function( html ) {
+    $( "#live-results" ).append( html );
+    $( "#normal-header" ).hide();
+  });
+});
+
