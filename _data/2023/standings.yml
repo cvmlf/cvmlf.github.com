@@ -1,36 +1,51 @@
+- name: Tony E.
+  points: '13.69'
+  tournaments: 2
+- name: Dan J.
+  points: '12.28'
+  tournaments: 2
 - name: Dave B.
   points: '9.91'
   tournaments: 1
 - name: Justin B.
   points: '7.41'
   tournaments: 1
-- name: Tony E.
-  points: '5.91'
-  tournaments: 1
+- name: Charles V.
+  points: '7.28'
+  tournaments: 2
 - name: Harley E.
-  points: '4.41'
-  tournaments: 1
+  points: '5.41'
+  tournaments: 2
 - name: Anthony E.
-  points: '3.41'
-  tournaments: 1
+  points: '4.41'
+  tournaments: 2
 - name: Joey E.
-  points: '2.41'
-  tournaments: 1
+  points: '3.41'
+  tournaments: 2
+- name: Cael H.
+  points: '3.00'
+  tournaments: 2
 - name: Jed B.
   points: '2.00'
   tournaments: 1
-- name: Cael H.
-  points: '2.00'
-  tournaments: 1
-- name: Dan J.
-  points: '2.00'
-  tournaments: 1
-- name: Charles V.
-  points: '1.00'
-  tournaments: 1
 - name: Josh V.
+  points: '2.00'
+  tournaments: 2
+- name: Matt V.
   points: '1.00'
   tournaments: 1
-- name: Matt V.
+- name: Charlie V.
+  points: '1.00'
+  tournaments: 1
+- name: Justin S.
+  points: '1.00'
+  tournaments: 1
+- name: Kasey V.
+  points: '1.00'
+  tournaments: 1
+- name: Caleb S.
+  points: '1.00'
+  tournaments: 1
+- name: Brian S.
   points: '1.00'
   tournaments: 1
