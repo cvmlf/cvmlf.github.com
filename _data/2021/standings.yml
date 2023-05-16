@@ -6,7 +6,7 @@
   tournaments: 5
 - name: Dan J.
   points: '15.30'
-  tournaments: 4
+  tournaments: 5
 - name: Justin B.
   points: '12.73'
   tournaments: 2
@@ -15,43 +15,43 @@
   tournaments: 5
 - name: Joey E.
   points: '9.91'
-  tournaments: 4
+  tournaments: 5
 - name: Dave B.
   points: '4.05'
   tournaments: 2
 - name: Scott C.
   points: '3.41'
-  tournaments: 1
+  tournaments: 2
 - name: Tim I.
   points: '2.41'
-  tournaments: 1
-- name: Josh V.
-  points: '2.00'
   tournaments: 1
 - name: Ezekiel I.
   points: '2.00'
   tournaments: 1
-- name: Carsen C.
+- name: Jed B.
   points: '2.00'
   tournaments: 2
-- name: Charlie V.
+- name: Josh V.
   points: '2.00'
   tournaments: 1
 - name: Kaden C.
   points: '2.00'
   tournaments: 2
-- name: Jed B.
+- name: Charles V.
   points: '2.00'
-  tournaments: 2
+  tournaments: 1
+- name: Carsen C.
+  points: '2.00'
+  tournaments: 3
 - name: Will A.
   points: '1.00'
   tournaments: 1
 - name: Justin S.
   points: '1.00'
   tournaments: 1
-- name: Jed I.
+- name: Malachi I.
   points: '1.00'
   tournaments: 1
-- name: Malachi I.
+- name: Jed I.
   points: '1.00'
   tournaments: 1
