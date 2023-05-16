@@ -1,30 +1,39 @@
 - name: Harley E.
   points: '33.21'
   tournaments: 5
+  qualified: true
 - name: Justin B.
   points: '31.08'
   tournaments: 4
+  qualified: true
 - name: Joey E.
   points: '28.71'
   tournaments: 5
+  qualified: true
 - name: Tony E.
   points: '26.34'
   tournaments: 5
+  qualified: true
 - name: Dan J.
   points: '23.56'
   tournaments: 5
+  qualified: true
 - name: Cael H.
   points: '9.52'
   tournaments: 3
+  qualified: true
 - name: Josh V.
   points: '9.15'
   tournaments: 5
+  qualified: true
 - name: Jeremiah B.
   points: '8.52'
   tournaments: 1
+  qualified: true
 - name: Anthony E.
   points: '8.41'
   tournaments: 5
+  qualified: true
 - name: Scott C.
   points: '6.78'
   tournaments: 2

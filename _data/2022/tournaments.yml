@@ -320,3 +320,49 @@
     fish: 0
     points: '1.00'
 
+- id: 12
+  lake: Long Lake
+  date: Saturday September 10th
+  big_bass: Big Bass 2.56 lbs (Joey E.)
+  championship: true
+  target-weight: 5 lbs
+  period1-results:
+  - name: Anthony E.
+    weight: 5.50 lbs
+    fish: 3
+  - name: Dan J.
+    weight: 5.96 lbs
+    fish: 4
+  - name: Joey E.
+    weight: 4.06 lbs
+    fish: 2
+  - name: Justin B.
+    weight: 3.38 lbs
+    fish: 2
+  - name: ------- Cut Line ---------
+  - name: Harley E.
+    weight: 3.20 lbs
+    fish: 2
+  - name: Tony E.
+    weight: 2.79 lbs
+    fish: 2
+  - name: Cael H.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+  period2-results:
+  - name: Joey E.
+    weight: 5.57 lbs
+    fish: 4
+  - name: Anthony E.
+    weight: 2.75 lbs
+    fish: 2
+  - name: Dan J.
+    weight: 0.00 lbs
+    fish: 0
+    notes: won tie breaker
+  - name: Justin B.
+    weight: 0.00 lbs
+    fish: 0

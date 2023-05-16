@@ -1,0 +1,8 @@
+no_championship: true
+dropped_tournaments: 2
+big_bass:
+  - name: Harley E.
+    weight: 4.50
+    type: largemouth
+    lake: Dells Pond
+

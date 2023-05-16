@@ -4,9 +4,11 @@
 - name: Dan J.
   points: '12.28'
   tournaments: 2
+  qualified: true
 - name: Dave B.
   points: '9.91'
   tournaments: 1
+  qualified: true
 - name: Justin B.
   points: '7.41'
   tournaments: 1

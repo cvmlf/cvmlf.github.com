@@ -1,0 +1,9 @@
+big_bass:
+  - name: Dave B.
+    weight: '3.85'
+    type: largemouth
+    lake: Eau Galle Lake
+  - name: Dan J.
+    weight: '3.85'
+    type: smallmouth
+    lake: Lake Eau Claire
