@@ -131,6 +131,11 @@
 - id: 9
   lake: Mead Lake
   date: Saturday June 10th
+  meeting: 7:00 am
+  period1: 7:30 - 10:30 am
+  period2: 12:00 - 3:00 pm
+  landing: https://goo.gl/maps/YyCqV69VScvzPMFw8
+  awards:  3:30 pm 
   big_bass: 
 
 - id: 10
