@@ -128,15 +128,55 @@
     fish: 0
     points: '1.00'
 
-- id: 9
+- id: 15
   lake: Mead Lake
   date: Saturday June 10th
-  meeting: 7:00 am
-  period1: 7:30 - 10:30 am
-  period2: 12:00 - 3:00 pm
-  landing: https://goo.gl/maps/YyCqV69VScvzPMFw8
-  awards:  3:30 pm 
-  big_bass: 
+  big_bass: Big Bass 3.48 lbs (Brian S.)
+  results:
+  - name: Tony E.
+    weight: 12.29 lbs
+    fish: 8
+    points: '8.55'
+  - name: Brian S.
+    weight: 9.95 lbs
+    fish: 5
+    points: '8.05'
+  - name: Joey E.
+    weight: 6.82 lbs
+    fish: 4
+    points: '5.55'
+  - name: Harley E.
+    weight: 6.46 lbs
+    fish: 4
+    points: '4.05'
+  - name: Dan J.
+    weight: 4.92 lbs
+    fish: 2
+    points: '3.05'
+  - name: Cael H.
+    weight: 4.70 lbs
+    fish: 3
+    points: '2.05'
+  - name: Piper J.
+    weight: 1.74 lbs
+    fish: 1
+    points: '2.00'
+  - name: Caleb S.
+    weight: 1.63 lbs
+    fish: 1
+    points: '2.00'
+  - name: Charles V.
+    weight: 1.01 lbs
+    fish: 1
+    points: '2.00'
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Matt V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 
 - id: 10
   lake: Silver Lake
