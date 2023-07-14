@@ -183,6 +183,11 @@
   date: Saturday July 22nd
   big_bass: 
   team: true
+  meeting: 7:00 am
+  period1: 7:30 - 11:00 am
+  period2: 12:30 - 3:00 pm
+  landing: https://www.google.com/maps/place/Silver+Lake+Grant+Park/@45.5755509,-91.9161408,16z/data=!4m6!3m5!1s0x52ad01f5e1f905d9:0xdb46c988ff35aa5b!8m2!3d45.5729548!4d-91.9206772!16s%2Fg%2F11v0x3mnxf?entry=ttu6
+  awards:  3:30 pm 
 
 - id: 11
   lake: Long Lake

@@ -1,5 +1,5 @@
 - lake: Altoona Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2128100
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2128100
   map_link: https://webapp.navionics.com/?lang=en#boating@12&key=egppGna%60mP
   distance_from_ec: 4
   notes: >
@@ -7,30 +7,22 @@
     Visitors have access to the lake from public boat landings, a public beach. Fish include Musky, Panfish, Smallmouth Bass and Walleye. 
     The lake's water clarity is low.
 - lake: Amacoy Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2359700
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2359700
   map_link: https://webapp.navionics.com/?lang=en#boating@13&key=clatG%7ChjlP
   distance_from_ec: 49
   notes: >
     Amacoy Lake is a 283 acre lake located in Rusk County. It has a maximum depth of 20 feet. 
     Visitors have access to the lake from a public boat landing. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye and Catfish. The lake's water clarity is low.
-- lake: Como Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2152100
-  map_link: https://webapp.navionics.com/?lang=en#boating@13&key=%7D%60irGjwmmP
-  distance_from_ec: 26
-  notes: >
-    Como Lake (Bloomer Mill Pond) is a 98 acre lake located in Chippewa County. 
-    It has a maximum depth of 11 feet. Visitors have access to the lake from a public boat landing. 
-    Fish include Panfish, Largemouth Bass and Northern Pike.
 - lake: Cornell Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2171000
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2171000
   map_link: https://webapp.navionics.com/?lang=en#boating@13&key=yyjrGlrnlP
   distance_from_ec: 31
   notes: >
     Cornell Lake is a 194 acre lake located in Chippewa County. It has a maximum depth of 39 feet. 
     Visitors have access to the lake from a public boat landing. Fish include Panfish, Largemouth Bass, Northern Pike and Walleye.
 - lake: Dells Pond
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2149900
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2149900
   map_link: https://webapp.navionics.com/?lang=en#boating@12&key=svrpGxxmmP
   distance_from_ec: 0
   notes: >
@@ -38,14 +30,14 @@
     Visitors have access to the lake from public boat landings. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye and Catfish.
 - lake: Halfmoon Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2125400
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2125400
   map_link: https://webapp.navionics.com/?lang=en#boating@13&key=smnpGxarmP
   distance_from_ec: 0
   notes: >
     Halfmoon Lake is a 135 acre lake located in Eau Claire County. It has a maximum depth of 9 feet. 
     Visitors have access to the lake from a public boat landing. Fish include Panfish, Largemouth Bass and Northern Pike.
 - lake: Lake Eau Claire
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2133200
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2133200
   map_link: https://webapp.navionics.com/?lang=en#boating@12&key=mndpG~g%60kP
   distance_from_ec: 25
   notes: >
@@ -53,14 +45,14 @@
     It has a maximum depth of 25 feet. Visitors have access to the lake from public boat landings. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye. The lake's water clarity is low.
 - lake: Lake Eau Galle
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2056600
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2056600
   map_link: https://webapp.navionics.com/?lang=en#boating@12&key=yqzoGdarpP
   distance_from_ec: 46
   notes: >
     Lake Eau Galle is a 360 acre lake located in Dunn County. It has a maximum depth of 18 feet. 
     Visitors have access to the lake from public boat landings, a public beach. Fish include Panfish and Largemouth Bass.
 - lake: Lake Montanis
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2103200 
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2103200 
   map_link: https://webapp.navionics.com/?lang=en#boating@13&key=w%7DptGfivnP
   distance_from_ec: 59
   notes: >  
@@ -68,7 +60,7 @@
     Visitors have access to the lake from public boat landings. Fish include Panfish, Largemouth Bass, Northern Pike and Walleye. 
     The lake's water clarity is low.
 - lake: Long Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2351400
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2351400
   map_link: https://webapp.navionics.com/?lang=en#boating@12&key=ywdsGxuzlP
   distance_from_ec: 40
   notes: >
@@ -76,7 +68,7 @@
     Visitors have access to the lake from public boat landings, a public beach. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye. The lake's water is moderately clear.
 - lake: Mead Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2143900
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2143900
   map_link: https://webapp.navionics.com/?lang=en#boating@13&key=kxjpGvh%7DhP
   distance_from_ec: 41
   notes: >  
@@ -84,7 +76,7 @@
     Visitors have access to the lake from public boat landings. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye. The lake's water clarity is low.
 - lake: Old Abe Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2174700
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2174700
   map_link: https://webapp.navionics.com/?lang=en#boating@11&key=gearGzu_lP
   distance_from_ec: 25
   notes: >    
@@ -92,7 +84,7 @@
     It has a maximum depth of 36 feet. Visitors have access to the lake from a public boat landing. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye, Sturgeon and Catfish.
 - lake: Otter Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2157000
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2157000
   map_link: https://webapp.navionics.com/?lang=en#boating@11&key=ix%60rG%60qbjP
   distance_from_ec: 42
   notes: >  
@@ -100,7 +92,7 @@
     Visitors have access to the lake from public boat landings. 
     Fish include Panfish, Largemouth Bass, Northern Pike and Walleye.
 - lake: Round Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2169200
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2169200
   map_link: https://webapp.navionics.com/?lang=en#boating@13&key=gnesGtldmP
   distance_from_ec: 40
   notes: >    
@@ -108,7 +100,7 @@
     Visitors have access to the lake from a public boat landing. Fish include Musky, Panfish, Largemouth Bass, Northern Pike and Walleye. 
     The lake's water clarity is low.
 - lake: Silver Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=1881100
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=1881100
   map_link: https://webapp.navionics.com/?lang=en#boating@12&key=sqeuGnvapP
   distance_from_ec: 68
   notes: >
@@ -116,7 +108,7 @@
     It has a maximum depth of 91 feet. Visitors have access to the lake from a public boat landing, a public beach. 
     Fish include Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Trout and Walleye. The lake's water is moderately clear.
 - lake: Turtle Lake
-  dnr_link: https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2079800
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2079800
   map_link: https://webapp.navionics.com/?lang=en#boating@12&key=qpetG%7CdaqP
   distance_from_ec: 68
   notes: >    
