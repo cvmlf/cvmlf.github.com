@@ -181,13 +181,54 @@
 - id: 10
   lake: Silver Lake
   date: Saturday July 22nd
-  big_bass: 
   team: true
   meeting: 7:00 am
   period1: 7:30 - 11:00 am
   period2: 12:30 - 3:00 pm
   landing: https://www.google.com/maps/place/Silver+Lake+Grant+Park/@45.5755509,-91.9161408,16z/data=!4m6!3m5!1s0x52ad01f5e1f905d9:0xdb46c988ff35aa5b!8m2!3d45.5729548!4d-91.9206772!16s%2Fg%2F11v0x3mnxf?entry=ttu6
   awards:  3:30 pm 
+  big_bass: Big Bass 2.38 lbs (Joey E.)
+  results:
+  - name: Joey E.
+    weight: 14.33 lbs
+    fish: 10
+    points: '9.18'
+  - name: Harley E.
+    weight: 10.06 lbs
+    fish: 8
+    points: '6.68'
+  - name: Tony E.
+    weight: 7.32 lbs
+    fish: 5
+    points: '5.18'
+  - name: Charles V.
+    weight: 4.57 lbs
+    fish: 3
+    points: '3.68'
+  - name: Dan J.
+    weight: 3.12 lbs
+    fish: 2
+    points: '2.68'
+  - name: Josh V.
+    weight: 2.44 lbs
+    fish: 2
+    points: '2.00'
+  - name: Anthony E.
+    weight: 2.39 lbs
+    fish: 2
+    points: '2.00'
+  - name: Brian S.
+    weight: 1.45 lbs
+    fish: 1
+    points: '2.00'
+  - name: Matt V.
+    weight: 1.08 lbs
+    fish: 1
+    points: '2.00'
+  - name: Cael H.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 
 - id: 11
   lake: Long Lake

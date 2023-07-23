@@ -1,57 +1,59 @@
-- name: Tony E.
-  points: '16.33'
-  tournaments: 3
-  qualified: true
-- name: Dan J.
-  points: '13.33'
-  tournaments: 3
-  qualified: true
-- name: Dave B.
-  points: '9.91'
-  tournaments: 1
-  qualified: true
-- name: Brian S.
-  points: '9.05'
-  tournaments: 2
-- name: Harley E.
-  points: '8.46'
-  tournaments: 3
-- name: Charles V.
-  points: '8.28'
-  tournaments: 3
-- name: Joey E.
-  points: '7.96'
-  tournaments: 3
-- name: Justin B.
-  points: '7.41'
-  tournaments: 1
-- name: Anthony E.
-  points: '4.41'
-  tournaments: 2
-- name: Cael H.
-  points: '4.05'
-  tournaments: 3
-- name: Caleb S.
-  points: '3.00'
-  tournaments: 2
-- name: Piper J.
-  points: '2.00'
-  tournaments: 1
-- name: Josh V.
-  points: '2.00'
-  tournaments: 3
-- name: Matt V.
-  points: '2.00'
-  tournaments: 2
-- name: Jed B.
-  points: '2.00'
-  tournaments: 1
-- name: Kasey V.
-  points: '1.00'
-  tournaments: 1
-- name: Justin S.
-  points: '1.00'
-  tournaments: 1
-- name: Charlie V.
-  points: '1.00'
-  tournaments: 1
+  - name: Tony E.
+    points: '22.24'
+    tournaments: 4
+    qualified: true
+  - name: Joey E.
+    points: '17.14'
+    tournaments: 4
+    qualified: true
+  - name: Dan J.
+    points: '16.01'
+    tournaments: 4
+    qualified: true
+  - name: Harley E.
+    points: '15.14'
+    tournaments: 4
+  - name: Charles V.
+    points: '11.96'
+    tournaments: 4
+  - name: Brian S.
+    points: '11.05'
+    tournaments: 3
+  - name: Dave B.
+    points: '9.91'
+    tournaments: 1
+    qualified: true
+  - name: Justin B.
+    points: '7.41'
+    tournaments: 1
+  - name: Anthony E.
+    points: '6.41'
+    tournaments: 3
+  - name: Cael H.
+    points: '5.05'
+    tournaments: 4
+  - name: Matt V.
+    points: '4.00'
+    tournaments: 3
+  - name: Josh V.
+    points: '4.00'
+    tournaments: 4
+  - name: Caleb S.
+    points: '3.00'
+    tournaments: 2
+  - name: Piper J.
+    points: '2.00'
+    tournaments: 1
+  - name: Jed B.
+    points: '2.00'
+    tournaments: 1
+  - name: Justin S.
+    points: '1.00'
+    tournaments: 1
+  - name: Charlie V.
+    points: '1.00'
+    tournaments: 1
+  - name: Kasey V.
+    points: '1.00'
+    tournaments: 1
+
