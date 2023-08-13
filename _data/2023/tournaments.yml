@@ -233,7 +233,11 @@
 - id: 11
   lake: Long Lake
   date: Saturday August 19th
-  big_bass: 
+  meeting: 7:00 am
+  period1: 7:30 - 11:00 am
+  period2: 12:30 - 3:00 pm
+  landing: https://www.google.com/maps/place/Morris-Erickson+County+Park/@45.2524873,-91.4082898,15z/data=!4m9!1m2!2m1!1sLong+Lake,+WI+new+auburn!3m5!1s0x52acbd02e179f7eb:0x6b118a77c44fbaba!8m2!3d45.2545213!4d-91.412142!16s%2Fg%2F1v1tmqvr?entry=ttu
+  awards:  3:30 pm 
   heavy_hitters: true
 
 - id: 12
