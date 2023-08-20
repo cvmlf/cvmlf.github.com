@@ -239,6 +239,70 @@
   landing: https://www.google.com/maps/place/Morris-Erickson+County+Park/@45.2524873,-91.4082898,15z/data=!4m9!1m2!2m1!1sLong+Lake,+WI+new+auburn!3m5!1s0x52acbd02e179f7eb:0x6b118a77c44fbaba!8m2!3d45.2545213!4d-91.412142!16s%2Fg%2F1v1tmqvr?entry=ttu
   awards:  3:30 pm 
   heavy_hitters: true
+  limit: 4
+  big_bass: Big Bass 2.84 lbs (Josh V.)
+  results:
+  - name: Justin B.
+    weight: 6.35 lbs
+    fish: 11
+    points: '10.02'
+  - name: Dan J.
+    weight: 6.12 lbs
+    fish: 5
+    points: '8.52'
+  - name: Harley E.
+    weight: 5.67 lbs
+    fish: 4
+    points: '7.02'
+  - name: Josh V.
+    weight: 5.15 lbs
+    fish: 3
+    points: '6.52'
+  - name: Joey E.
+    weight: 4.01 lbs
+    fish: 4
+    points: '4.52'
+  - name: Dave B.
+    weight: 3.50 lbs
+    fish: 5
+    points: '3.52'
+  - name: Tony E.
+    weight: 3.23 lbs
+    fish: 5
+    points: '2.52'
+  - name: Brian S.
+    weight: 3.01 lbs
+    fish: 4
+    points: '2.00'
+  - name: Josh B.
+    weight: 2.80 lbs
+    fish: 5
+    points: '2.00'
+  - name: Charles V.
+    weight: 2.13 lbs
+    fish: 4
+    points: '2.00'
+  - name: Cael H.
+    weight: 1.67 lbs
+    fish: 1
+    points: '2.00'
+  - name: Matt V.
+    weight: 1.55 lbs
+    fish: 2
+    points: '2.00'
+  - name: Piper J.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Timmy E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Jed B.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+
 
 - id: 12
   lake: Otter Lake
