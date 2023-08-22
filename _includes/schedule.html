@@ -132,14 +132,10 @@
                   
                   <div class="modal-body">
                     <p>{{ t.date }} - {{ t.lake }}</p>
-                    <p>
-                      {% if t.heavy_hitters == true %} Best {{ t.limit }} fish {% endif %}
-                    </p>
-
 
                     {% if t.results.size > 0 %}
 
-                        <p>Results</p>
+                        <p>Results {% if t.heavy_hitters == true %} of best {{ t.limit }} fish {% endif %} </p>
                         <table class="table table-condensed table-striped">
                           <thead>
                             <tr>
@@ -153,7 +149,11 @@
                             {% for results in t.results %}
                             <tr>
                             <td>{{ results.name }}</td>
-                            <td>{{ results.fish  | at_most: t.limit }}</td>
+                            {% if t.limit > 0 %}
+                              <td>{{ results.fish  | at_most: t.limit }}</td>
+                            {% else %}
+                              <td>{{ results.fish }}</td>
+                            {% endif %}
                             <td>{{ results.weight }}</td>
                             <td>{{ results.points }}</td>
                             </tr>
