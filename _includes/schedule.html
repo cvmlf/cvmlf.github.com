@@ -251,6 +251,10 @@
                               Period 2 - {{ t.period2 }}
                               <br/>
                               Awards around {{ t.awards }}
+                              {% if t.target-weight %}
+                                <br/>
+                                Target Weight for 1st period: {{ t.target-weight }}
+                              {% endif %}
                             </p>
 
                             {% else %}
