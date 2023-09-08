@@ -32,7 +32,7 @@ $(document).ready(function () {
   checkLive();
 });
 
-let timerId = setInterval(() => checkLive(), 1000*30);
+let timerId = setInterval(() => checkLive(), 1000*120);
 
 function checkLive() {
     $.ajax({
