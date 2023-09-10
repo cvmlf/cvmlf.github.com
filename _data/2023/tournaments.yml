@@ -314,5 +314,52 @@
   period2: 12:30 - 3:30 pm
   landing: https://goo.gl/maps/8CPkruhPVD9aYwW36
   awards:  4:00 pm 
-  big_bass: 
-
+  big_bass: Big Bass 2.63 lbs (Joey E.)
+  period1-results:
+  - name: Joey E.
+    weight: 6.69 lbs
+    fish: 4
+  - name: Justin B.
+    weight: 5.70 lbs
+    fish: 3
+  - name: Charles V.
+    weight: 3.62 lbs
+    fish: 2
+  - name: Dan J.
+    weight: 2.92 lbs
+    fish: 2
+  - name: Brian S.
+    weight: 1.76
+    fish: 1
+  - name: ------- Cut Line ---------
+  - name: Harley E.
+    weight: 1.03 lbs
+    fish: 1
+  - name: Dave B.
+    weight: 1.0 lbs
+    fish: 1
+  - name: Cael H.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Tony E.
+    weight: 0.00 lbs
+    fish: 0
+  period2-results:
+  - name: Justin B.
+    weight: 9.65 lbs
+    fish: 6
+  - name: Brian S.
+    weight: 6.81 lbs
+    fish: 4
+  - name: Joey E.
+    weight: 3.12 lbs
+    fish: 2
+  - name: Dan J.
+    weight: 2.46 lbs
+    fish: 1
+  - name: Charles V.
+    weight: 1.63 lbs
+    fish: 1
