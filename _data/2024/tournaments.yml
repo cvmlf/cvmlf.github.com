@@ -1,0 +1,39 @@
+# Example
+#lake: Lake Eau Galle
+#date: Saturday April 29th
+#meeting: 8:00 am
+#period1: 8:30 - 11:30 am
+#period2: 1:00 - 4:00 pm
+#landing: http://maps.google.com/maps?q=44.70144020,+-92.01314570&hl=en&sll=44.70144020,-92.01314570&sspn=0.462242,0.88028&t=h&z=16
+#awards:  4:30 pm 
+#heavy_hitters: false
+#team: false
+#championship: false
+#big_bass:
+
+- id: 8
+  lake: Silver Lake
+  date: Saturday May 11th
+
+- id: 9
+  lake: Turtle Lake
+  date: Saturday June 8th
+  heavy_hitters: true
+    
+- id: 10
+  lake: Lake Montanis
+  date: Saturday July 6th
+
+- id: 11
+  lake: Mead Lake
+  date: Saturday July 20th
+  team: true
+
+- id: 12
+  lake: Round Lake
+  date: Saturday August 31st
+
+- id: 13
+  lake: Long Lake
+  date: Saturday Sept 28th
+  championship: true
