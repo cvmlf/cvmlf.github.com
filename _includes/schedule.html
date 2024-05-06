@@ -230,19 +230,17 @@
                                Contour Map 
                             </a>
                           </p>
-                          {% if t.landing %}
-                            <p>
-                              <a href="{{ t.landing }}"
-                                 target="_blank"
-                                 rel="noopener noreferrer">
-                                Boat Landing
-                              </a>
-                            </p>
-                          {% endif %}
 
                           {% if t.period1 %}
                             <p>
                               Pre-launch meeting: {{ t.meeting }}
+                              <br/>
+                              Where: 
+                              <a href="{{ t.landing_link }}"
+                                 target="_blank"
+                                 rel="noopener noreferrer">
+                                {{ t.landing | default: "Boat Landing" }}
+                              </a>
                               <br/>
                               Lake Scouting 15 minutes prior to lines in
                               <br/>
