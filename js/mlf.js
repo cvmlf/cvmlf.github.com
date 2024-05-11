@@ -37,7 +37,7 @@ let timerId = setInterval(() => checkLive(), 1000*120);
 function checkLive() {
     $.ajax({
         //url: "http://localhost:3000/live",
-        url: "https://cvmlf.herokuapp.com/live",
+        url: "http://143.198.2.78/live",
         cache: false
     })
     .done(function (html) {
