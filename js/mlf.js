@@ -37,7 +37,7 @@ let timerId = setInterval(() => checkLive(), 1000*120);
 function checkLive() {
     $.ajax({
         //url: "http://localhost:3000/live",
-        url: "http://143.198.2.78/live",
+        url: "https://live.cvmlf.com/live",
         cache: false
     })
     .done(function (html) {
