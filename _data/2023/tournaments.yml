@@ -11,7 +11,7 @@
 #championship: false
 #big_bass:
 
-- id: 7
+- id: 13
   lake: Lake Eau Galle
   date: Saturday April 29th
   meeting: 8:00 am
@@ -178,7 +178,7 @@
     fish: 0
     points: '1.00'
 
-- id: 10
+- id: 16
   lake: Silver Lake
   date: Saturday July 22nd
   team: true
@@ -230,7 +230,7 @@
     fish: 0
     points: '1.00'
 
-- id: 11
+- id: 17
   lake: Long Lake
   date: Saturday August 19th
   meeting: 7:00 am
@@ -304,7 +304,7 @@
     points: '1.00'
 
 
-- id: 12
+- id: 18
   lake: Otter Lake
   date: Saturday Sept 9th
   championship: true
