@@ -1,36 +1,49 @@
+- name: Brian S.
+  points: '11.83'
+  tournaments: 2
+- name: Anthony E.
+  points: '10.78'
+  tournaments: 2
+- name: Justin B.
+  points: '9.55'
+  tournaments: 1
+  qualified: true
 - name: Charles V.
   points: '9.28'
   tournaments: 1
   qualified: true
-- name: Anthony E.
-  points: '8.78'
-  tournaments: 1
+- name: Joey E.
+  points: '7.55'
+  tournaments: 2
+- name: Tony E.
+  points: '6.83'
+  tournaments: 2
 - name: Matt V.
   points: '6.28'
   tournaments: 1
-- name: Brian S.
-  points: '4.78'
-  tournaments: 1
 - name: Jesse S.
-  points: '3.78'
+  points: '5.78'
+  tournaments: 2
+- name: Harley E.
+  points: '4.00'
+  tournaments: 2
+- name: Sam H.
+  points: '3.05'
+  tournaments: 2
+- name: Dave B.
+  points: '3.05'
   tournaments: 1
-- name: Tony E.
-  points: '2.78'
-  tournaments: 1
-- name: Timmy E.
-  points: '2.00'
-  tournaments: 1
-- name: Joey E.
+- name: Caleb S.
   points: '2.00'
   tournaments: 1
 - name: Josh V.
   points: '2.00'
   tournaments: 1
-- name: Harley E.
+- name: Joshua S.
   points: '2.00'
   tournaments: 1
-- name: Sam H.
-  points: '1.00'
+- name: Timmy E.
+  points: '2.00'
   tournaments: 1
 - name: Dan J.
   points: '1.00'
