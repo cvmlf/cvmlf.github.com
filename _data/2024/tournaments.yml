@@ -124,6 +124,13 @@
 - id: 21
   lake: Lake Montanis
   date: Saturday July 6th
+  meeting: 7:30 am
+  period1: 8:00 - 11:00 am
+  period2: 1:00 - 4:00 pm
+  awards:  4:30 pm 
+  landing: Meet on the water in front of Dan's house
+  landing_link: https://www.google.com/maps/place/45°28'24.0%22N+91°42'19.1%22W/@45.4733237,-91.7078739,836m/data=!3m2!1e3!4b1!4m13!1m8!3m7!1s0x52acfa804518e1fd:0x9426158f530606f8!2s2185+Meadow+Creek+Ln,+Rice+Lake,+WI+54868!3b1!8m2!3d45.4731246!4d-91.7064574!16s%2Fg%2F11rkczwynf!3m3!8m2!3d45.47332!4d-91.705299?hl=en&entry=ttu
+    
 
 - id: 22
   lake: Mead Lake
