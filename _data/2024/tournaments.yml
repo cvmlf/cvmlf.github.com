@@ -122,15 +122,79 @@
     points: '2.00'
     
 - id: 21
-  lake: Lake Montanis
-  date: Saturday July 6th
   meeting: 7:30 am
   period1: 8:00 - 11:00 am
   period2: 1:00 - 4:00 pm
   awards:  4:30 pm 
   landing: Meet on the water in front of Dan's house
-  landing_link: https://www.google.com/maps/place/45°28'24.0%22N+91°42'19.1%22W/@45.4733237,-91.7078739,836m/data=!3m2!1e3!4b1!4m13!1m8!3m7!1s0x52acfa804518e1fd:0x9426158f530606f8!2s2185+Meadow+Creek+Ln,+Rice+Lake,+WI+54868!3b1!8m2!3d45.4731246!4d-91.7064574!16s%2Fg%2F11rkczwynf!3m3!8m2!3d45.47332!4d-91.705299?hl=en&entry=ttu
-    
+  lake: Lake Montanis
+  date: Saturday July 6th
+  big_bass: Big Bass 2.56 lbs (Anthony E.)
+  results:
+  - name: Joey E.
+    weight: 11.31 lbs
+    fish: 8
+    points: '10.39'
+  - name: Brian S.
+    weight: 9.94 lbs
+    fish: 5
+    points: '8.89'
+  - name: Anthony E.
+    weight: 5.50 lbs
+    fish: 3
+    points: '8.39'
+  - name: Justin B.
+    weight: 4.62 lbs
+    fish: 3
+    points: '5.89'
+  - name: Caleb S.
+    weight: 4.55 lbs
+    fish: 3
+    points: '4.89'
+  - name: Harley E.
+    weight: 3.54 lbs
+    fish: 2
+    points: '3.89'
+  - name: Charles V.
+    weight: 3.14 lbs
+    fish: 2
+    points: '2.89'
+  - name: Tony E.
+    weight: 2.99 lbs
+    fish: 2
+    points: '2.00'
+  - name: Matt V.
+    weight: 1.65 lbs
+    fish: 1
+    points: '2.00'
+  - name: Joshua S.
+    weight: 1.45 lbs
+    fish: 1
+    points: '2.00'
+  - name: Josh B.
+    weight: 1.44 lbs
+    fish: 1
+    points: '2.00'
+  - name: Charlie V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Dan J.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Sam H.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Timmy E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 
 - id: 22
   lake: Mead Lake
