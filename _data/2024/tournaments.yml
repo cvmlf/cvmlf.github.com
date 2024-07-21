@@ -78,11 +78,11 @@
   results:
   - name: Justin B.
     weight: 11.87 lbs
-    fish: 9
+    fish: 4
     points: '9.55'
   - name: Brian S.
     weight: 7.69 lbs
-    fish: 10
+    fish: 4
     points: '7.05'
   - name: Joey E.
     weight: 7.56 lbs
@@ -90,27 +90,27 @@
     points: '5.55'
   - name: Tony E.
     weight: 7.48 lbs
-    fish: 5
+    fish: 4
     points: '4.05'
   - name: Dave B.
     weight: 6.26 lbs
-    fish: 6
+    fish: 4
     points: '3.05'
   - name: Sam H.
     weight: 5.69 lbs
-    fish: 5
+    fish: 4
     points: '2.05'
   - name: Anthony E.
     weight: 5.07 lbs
-    fish: 6
+    fish: 4
     points: '2.00'
   - name: Harley E.
     weight: 4.92 lbs
-    fish: 5
+    fish: 4
     points: '2.00'
   - name: Joshua S.
     weight: 4.51 lbs
-    fish: 6
+    fish: 4
     points: '2.00'
   - name: Jesse S.
     weight: 2.52 lbs
@@ -207,6 +207,80 @@
   landing: North Mead Lake County Park Boat Ramp
   landing_link: http://maps.google.com/maps?q=44.7934535,+-90.7588711&hl=en&sll=44.7934535,-90.7588711&sspn=0.462242,0.88028&t=h&z=16
   notes: This is a team tournament <ul><li>Teams of 2</li> <li>5 largest fish for the team</li> <li>Team members can score max 4 fish</li><li>Individual tournament is 4 biggest</li> </ul>
+  big_bass: Big Bass 3.94 lbs (Harley E.)
+  results:
+  - name: Joey E.
+    weight: 12.64 lbs
+    fish: 4
+    points: '11.12'
+  - name: Harley E.
+    weight: 9.89 lbs
+    fish: 4
+    points: '10.62'
+  - name: Justin B.
+    weight: 8.95 lbs
+    fish: 4
+    points: '8.12'
+  - name: Charles V.
+    weight: 8.28 lbs
+    fish: 4
+    points: '6.62'
+  - name: Brian S.
+    weight: 8.09 lbs
+    fish: 4
+    points: '5.62'
+  - name: Timmy E.
+    weight: 5.75 lbs
+    fish: 4
+    points: '4.62'
+  - name: Josh V.
+    weight: 5.56 lbs
+    fish: 4
+    points: '3.62'
+  - name: Tony E.
+    weight: 5.35 lbs
+    fish: 4
+    points: '2.62'
+  - name: Matt V.
+    weight: 4.31 lbs
+    fish: 3
+    points: '2.00'
+  - name: Caleb S.
+    weight: 4.27 lbs
+    fish: 3
+    points: '2.00'
+  - name: Sam H.
+    weight: 3.31 lbs
+    fish: 3
+    points: '2.00'
+  - name: Joshua S.
+    weight: 2.79 lbs
+    fish: 2
+    points: '2.00'
+  - name: Anthony E.
+    weight: 2.19 lbs
+    fish: 1
+    points: '2.00'
+  - name: Dan J.
+    weight: 1.82 lbs
+    fish: 3
+    points: '2.00'
+  - name: Piper J.
+    weight: 1.69 lbs
+    fish: 1
+    points: '2.00'
+  - name: Dave B.
+    weight: 1.50 lbs
+    fish: 1
+    points: '2.00'
+  - name: Jed B.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Jesse S.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 
 - id: 23
   lake: Round Lake
