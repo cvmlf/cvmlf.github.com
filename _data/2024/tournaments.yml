@@ -285,6 +285,12 @@
 - id: 23
   lake: Round Lake
   date: Saturday August 31st
+  meeting: 7:30 am on the water
+  period1: 8:00 - 11:00 am
+  period2: 12:30 - 3:30 pm
+  awards: 4:00 pm
+  landing: Round Lake County Park Boat Ramp
+  landing_link: https://www.google.com/maps/place/45°15'28.8%22N+91°26'37.1%22W/@45.2579854,-91.4462092,839m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d45.2579854!4d-91.4436343?hl=en&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D
 
 - id: 24
   lake: Long Lake
