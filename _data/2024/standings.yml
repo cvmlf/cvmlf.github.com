@@ -1,59 +1,65 @@
 ---
 - name: Joey E.
-  points: '27.06'
-  tournaments: 4
+  points: '29.58'
+  tournaments: 5
   qualified: true
 - name: Justin B.
-  points: '23.56'
-  tournaments: 3
+  points: '29.08'
+  tournaments: 4
   qualified: true
 - name: Brian S.
-  points: '21.56'
-  tournaments: 4
-- name: Anthony E.
-  points: '19.17'
-  tournaments: 4
-- name: Charles V.
-  points: '18.79'
-  tournaments: 3
+  points: '28.58'
+  tournaments: 5
   qualified: true
 - name: Harley E.
-  points: '16.51'
+  points: '25.03'
+  tournaments: 5
+  qualified: true
+- name: Anthony E.
+  points: '23.69'
+  tournaments: 5
+  qualified: true
+- name: Tony E.
+  points: '20.47'
+  tournaments: 5
+  qualified: true
+- name: Charles V.
+  points: '19.79'
   tournaments: 4
   qualified: true
 - name: Matt V.
-  points: '10.28'
-  tournaments: 3
-- name: Tony E.
-  points: '9.45'
+  points: '11.28'
   tournaments: 4
+  qualified: true
+- name: Josh V.
+  points: '10.14'
+  tournaments: 4
+  qualified: true
 - name: Caleb S.
   points: '8.89'
   tournaments: 3
 - name: Timmy E.
-  points: '7.62'
-  tournaments: 3
+  points: '8.62'
+  tournaments: 4
 - name: Jesse S.
-  points: '6.78'
+  points: '7.78'
+  tournaments: 4
+- name: Sam H.
+  points: '7.05'
+  tournaments: 5
+  qualified: true
+- name: Dave B.
+  points: '6.05'
   tournaments: 3
-- name: Josh V.
-  points: '6.62'
-  tournaments: 3
+- name: Dan J.
+  points: '6.00'
+  tournaments: 4
 - name: Joshua S.
   points: '6.00'
   tournaments: 3
-- name: Sam H.
-  points: '5.05'
-  tournaments: 4
-- name: Dave B.
-  points: '5.05'
-  tournaments: 2
-- name: Dan J.
+- name: Piper J.
   points: '4.00'
   tournaments: 3
-- name: Piper J.
-  points: '3.00'
-  tournaments: 2
 - name: Josh B.
   points: '2.00'
   tournaments: 1
