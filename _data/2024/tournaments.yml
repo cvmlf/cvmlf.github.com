@@ -365,3 +365,53 @@
   landing: Morris-Erickson County Park Boat Access
   landing_link: https://www.google.com/maps/place/45°15'15.8%22N+91°24'43.3%22W/@45.25438,-91.4146049,839m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d45.25438!4d-91.41203?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D
   notes: The target weight for period 1 will be 5.50 lbs.
+  big_bass: Big Bass 2.75 lbs (Harley E.)
+  target-weight: 5.50 lbs
+  period1-results:
+  - name: Justin B.
+    weight: 3.81 lbs
+    fish: 3
+  - name: Charles V.
+    weight: 1.32 lbs
+    fish: 1
+  - name: Harley E.
+    weight: 1.14 lbs
+    fish: 1
+  - name: Brian S.
+    weight: 1.12 lbs
+    fish: 1
+  - name: Joey E.
+    weight: 1.05 lbs
+    fish: 1
+  - name: ------- Cut Line ---------
+  - name: Tony E.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Sam H.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Matt V.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Anthony E.
+    weight: 0.00 lbs
+    fish: 0
+  period2-results:
+  - name: Justin B.
+    weight: 3.69 lbs
+    fish: 3
+  - name: Harley E.
+    weight: 2.75 lbs
+    fish: 1
+  - name: Joey E.
+    weight: 2.04 lbs
+    fish: 2
+  - name: Brian S.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Charles V.
+    weight: 0.00 lbs
+    fish: 0
