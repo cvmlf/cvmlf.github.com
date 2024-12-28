@@ -6,105 +6,98 @@
     Altoona Lake is a 720 acre lake located in Eau Claire County. It has a maximum depth of 25 feet. 
     Visitors have access to the lake from public boat landings, a public beach. Fish include Musky, Panfish, Smallmouth Bass and Walleye. 
     The lake's water clarity is low.
-- lake: Amacoy Lake
-  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2359700
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29817143 
-  distance_from_ec: 49
-  notes: >
-    Amacoy Lake is a 283 acre lake located in Rusk County. It has a maximum depth of 20 feet. 
-    Visitors have access to the lake from a public boat landing. 
-    Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye and Catfish. The lake's water clarity is low.
 - lake: Dells Pond
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2149900
   map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29825909 
   distance_from_ec: 0
   notes: >
     Dells Pond is a 622 acre lake located in Eau Claire County. It has a maximum depth of 30 feet. 
-    Visitors have access to the lake from public boat landings. 
+    Visitors have access to the lake from public boat landings.
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye and Catfish.
-- lake: Halfmoon Lake
-  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2125400
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816649 
-  distance_from_ec: 0
-  notes: >
-    Halfmoon Lake is a 135 acre lake located in Eau Claire County. It has a maximum depth of 9 feet. 
-    Visitors have access to the lake from a public boat landing. Fish include Panfish, Largemouth Bass and Northern Pike.
 - lake: Lake Eau Claire
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2133200
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29825907
+  map_link: https://www.c-map.com/chartexplorer/?lat=44.759761&long=-91.101241&map=Discover&defaultZoom=15 
   distance_from_ec: 25
   notes: >
-    Eau Claire Lake is a 870 acre lake located in Eau Claire County. 
+    Eau Claire Lake is a 870 acre lake located in Eau Claire County.
     It has a maximum depth of 25 feet. Visitors have access to the lake from public boat landings. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye. The lake's water clarity is low.
+- lake: Holcombe Flowage
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2184900
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.246892&long=-91.155861&map=Discover&defaultZoom=15
+  distance_from_ec: 52
+  notes: >
+    Holcombe Flowage is a 2881 acre lake located in Rusk, Chippewa Counties.
+    It has a maximum depth of 62 feet. Visitors have access to the lake from public boat landings and a public beach.
+    Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye, Sturgeon and Catfish.
 - lake: Lake Eau Galle
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2056600
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816519
+  map_link: https://www.c-map.com/chartexplorer/?lat=44.705340&long=-92.014460&map=Discover&defaultZoom=15
   distance_from_ec: 46
   notes: >
     Lake Eau Galle is a 360 acre lake located in Dunn County. It has a maximum depth of 18 feet. 
     Visitors have access to the lake from public boat landings, a public beach. Fish include Panfish and Largemouth Bass.
 - lake: Lake Montanis
-  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2103200 
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816585
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2103200
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.475603&long=-91.705728&map=Discover&defaultZoom=15
   distance_from_ec: 59
-  notes: >  
+  notes: >
     Lake Montanis is a 212 acre lake located in Barron County. It has a maximum depth of 14 feet. 
     Visitors have access to the lake from public boat landings. Fish include Panfish, Largemouth Bass, Northern Pike and Walleye. 
     The lake's water clarity is low.
 - lake: Long Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2351400
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29817117
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.252487&long=-91.414501&map=Discover&defaultZoom=15
   distance_from_ec: 40
   notes: >
     Long Lake is a 936 acre lake located in Chippewa County. It has a maximum depth of 101 feet. 
-    Visitors have access to the lake from public boat landings, a public beach. 
+    Visitors have access to the lake from public boat landings, a public beach.
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye. The lake's water is moderately clear.
 - lake: Mead Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2143900
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816663
+  map_link: https://www.c-map.com/chartexplorer/?lat=44.792419&long=-90.759697&map=Discover&defaultZoom=15
   distance_from_ec: 41
-  notes: >  
+  notes: >
     Mead Lake is a 310 acre lake located in Clark County. It has a maximum depth of 16 feet. 
-    Visitors have access to the lake from public boat landings. 
+    Visitors have access to the lake from public boat landings.
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye. The lake's water clarity is low.
 - lake: Old Abe Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2174700
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29825923
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.06287580&long=-91.26691368&map=Discover&defaultZoom=15
   distance_from_ec: 25
-  notes: >    
-    Old Abe Lake is a 470 acre lake located in Chippewa County. 
+  notes: >
+    Old Abe Lake is a 470 acre lake located in Chippewa County.
     It has a maximum depth of 36 feet. Visitors have access to the lake from a public boat landing. 
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye, Sturgeon and Catfish.
 - lake: Otter Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2157000
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816673
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.08429288&long=-90.94999823&map=Discover&defaultZoom=15
   distance_from_ec: 42
-  notes: >  
+  notes: >
     Otter Lake is a 602 acre lake located in Chippewa County. It has a maximum depth of 43 feet. 
-    Visitors have access to the lake from public boat landings. 
+    Visitors have access to the lake from public boat landings.
     Fish include Panfish, Largemouth Bass, Northern Pike and Walleye.
 - lake: Round Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2169200
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816709
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.25796025&long=-91.44355905&map=Discover&defaultZoom=16
   distance_from_ec: 40
-  notes: >    
+  notes: >
     Round Lake is a 216 acre lake located in Chippewa County. It has a maximum depth of 18 feet. 
     Visitors have access to the lake from a public boat landing. Fish include Musky, Panfish, Largemouth Bass, Northern Pike and Walleye. 
     The lake's water clarity is low.
 - lake: Silver Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=1881100
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816463
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.57279503&long=-91.92165970&map=Discover&defaultZoom=15
   distance_from_ec: 68
   notes: >
-    Silver Lake is a 331 acre lake located in Barron County. 
+    Silver Lake is a 331 acre lake located in Barron County.
     It has a maximum depth of 91 feet. Visitors have access to the lake from a public boat landing, a public beach. 
     Fish include Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Trout and Walleye. The lake's water is moderately clear.
 - lake: Upper Turtle Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2079800
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29816529
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.424103&long=-92.098618&map=Discover&defaultZoom=15
   distance_from_ec: 68
-  notes: >    
+  notes: >
     Upper Turtle Lake is a 427 acre lake located in Barron County. It has a maximum depth of 25 feet. 
     Visitors have access to the lake from public boat landings. Fish include Panfish, Largemouth Bass, Northern Pike and Walleye. 
     The lake's water clarity is low.
