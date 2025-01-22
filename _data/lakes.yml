@@ -1,6 +1,6 @@
 - lake: Altoona Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2128100
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=84291351
+  map_link: https://www.c-map.com/chartexplorer/?lat=44.812128&long=-91.429882&map=Discover&defaultZoom=15 
   distance_from_ec: 4
   notes: >
     Altoona Lake is a 720 acre lake located in Eau Claire County. It has a maximum depth of 25 feet. 
@@ -8,20 +8,12 @@
     The lake's water clarity is low.
 - lake: Dells Pond
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2149900
-  map_link: https://apps.dnr.wi.gov/swims/Documents/DownloadDocument?id=29825909 
+  map_link: https://www.c-map.com/chartexplorer/?lat=44.831924&long=-91.492155&map=Discover&defaultZoom=15 
   distance_from_ec: 0
   notes: >
     Dells Pond is a 622 acre lake located in Eau Claire County. It has a maximum depth of 30 feet. 
     Visitors have access to the lake from public boat landings.
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye and Catfish.
-- lake: Lake Eau Claire
-  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2133200
-  map_link: https://www.c-map.com/chartexplorer/?lat=44.759761&long=-91.101241&map=Discover&defaultZoom=15 
-  distance_from_ec: 25
-  notes: >
-    Eau Claire Lake is a 870 acre lake located in Eau Claire County.
-    It has a maximum depth of 25 feet. Visitors have access to the lake from public boat landings. 
-    Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye. The lake's water clarity is low.
 - lake: Holcombe Flowage
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2184900
   map_link: https://www.c-map.com/chartexplorer/?lat=45.246892&long=-91.155861&map=Discover&defaultZoom=15
@@ -30,6 +22,14 @@
     Holcombe Flowage is a 2881 acre lake located in Rusk, Chippewa Counties.
     It has a maximum depth of 62 feet. Visitors have access to the lake from public boat landings and a public beach.
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye, Sturgeon and Catfish.
+- lake: Lake Eau Claire
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2133200
+  map_link: https://www.c-map.com/chartexplorer/?lat=44.759761&long=-91.101241&map=Discover&defaultZoom=15 
+  distance_from_ec: 25
+  notes: >
+    Eau Claire Lake is a 870 acre lake located in Eau Claire County.
+    It has a maximum depth of 25 feet. Visitors have access to the lake from public boat landings. 
+    Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye. The lake's water clarity is low.
 - lake: Lake Eau Galle
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2056600
   map_link: https://www.c-map.com/chartexplorer/?lat=44.705340&long=-92.014460&map=Discover&defaultZoom=15
@@ -61,6 +61,14 @@
     Mead Lake is a 310 acre lake located in Clark County. It has a maximum depth of 16 feet. 
     Visitors have access to the lake from public boat landings.
     Fish include Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye. The lake's water clarity is low.
+- lake: Miller Dam
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2160700
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.201785&long=-90.710210&map=Discover&defaultZoom=15
+  distance_from_ec: 62
+  notes: >
+    Chequamegon Waters Flowage is a 2366 acre lake located in Taylor County. 
+    It has a maximum depth of 22 feet. Visitors have access to the lake from public boat landings. 
+    Fish include Panfish, Largemouth Bass and Northern Pike. The lake's water clarity is low.
 - lake: Old Abe Lake
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2174700
   map_link: https://www.c-map.com/chartexplorer/?lat=45.06287580&long=-91.26691368&map=Discover&defaultZoom=15

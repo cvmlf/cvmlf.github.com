@@ -20,9 +20,10 @@
                       rel="noopener noreferrer" 
                       data-toggle="modal" data-target="#tournament-{{ t.id }}">
                       {{ t.lake }} 
-                      {% if t.championship == true %} Championship {% endif %}
+                      {% if t.championship == true %} (Championship Cup) {% endif %}
                       {% if t.heavy_hitters == true %} (Heavy Hitters) {% endif %}
                       {% if t.team == true %} (Team Challenge) {% endif %}
+                      {% if t.road_runner == true %} (Road Runner) {% endif %}
                     </a>
                   </li>
                 {% endfor %}
@@ -92,11 +93,6 @@
                     {% endfor %}
                   </p>
                   <small>
-                    {% include points_explanation.html drops=include.data.notes.dropped_tournaments %}
-
-                    <br/>
-                    <br/>
-
                     {% if include.data.notes.no_championship %}
                     {% else %}
                       * Qualified for the CVMLF Championship Cup
@@ -253,11 +249,6 @@
                                 <br/>
                                 Target Weight for 1st period: {{ t.target-weight }}
                               {% endif %}
-                              {% if t.notes %}
-                                <br/>
-                                <br/>
-                                Note: {{ t.notes }}
-                              {% endif %}
                             </p>
 
                             {% else %}
@@ -268,6 +259,12 @@
                               </p>
 
                             {% endif %}  
+
+                            {% if t.notes %}
+                              <br/>
+                              <br/>
+                              Note: {{ t.notes }}
+                            {% endif %}
                         </p>
 
                     {% endif %}
