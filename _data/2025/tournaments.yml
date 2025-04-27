@@ -31,10 +31,70 @@
   landing_link: https://www.google.com/maps/place/Riverview+Park/@44.846334,-91.5044293,845m/data=!3m1!1e3!4m14!1m7!3m6!1s0x87f8a2cbe42d2705:0xc8cf3b3bd7df371c!2sRiverview+Park!8m2!3d44.8463303!4d-91.4995584!16
   awards: 4:30 pm
   notes: Lunch will be at the Riverview Park North Pavilion just down the road from the landing.
+  big_bass: Big Bass 3.81 lbs (Matt V.)
+  results:
+  - name: Matt V.
+    weight: 3.81 lbs
+    fish: 1
+    points: '10.28'
+  - name: Jed B.
+    weight: 2.35 lbs
+    fish: 1
+    points: '7.78'
+  - name: Anthony E.
+    weight: 1.81 lbs
+    fish: 1
+    points: '6.28'
+  - name: Dan J.
+    weight: 1.47 lbs
+    fish: 1
+    points: '4.78'
+  - name: Dave B.
+    weight: 1.10 lbs
+    fish: 1
+    points: '3.78'
+  - name: Charles V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Joey E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Jon R.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Piper J.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Sam H.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Timmy E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Tony E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 - id: 26
   lake: Silver Lake
   date: Saturday June 21st
-  notes: Tournament most likely in the afternoon and evening intead of the morning.
+  meeting: 12:30 pm
+  period1: 1:00 - 4:00 pm
+  period2: 5:30 - 8:30 pm
+  landing: Silver Lake Grant Park
+  landing_link: https://www.google.com/maps/place/Silver+Lake+Grant+Park/@45.5831433,-91.9334786,3336m/data=!3m1!1e3!4m14!1m7!3m6!1s0x52ad009da3fb6afd:0x5aaecd96fed97f45!2sSilver+Lake!8m2!3d45.5834184!4d-91.9216149!16s%2Fg%2F1hhjvws7y!3m5!1s0x52ad01f5e1f905d9:0xdb46c988ff35aa5b!8m2!3d45.5729548!4d-91.9206772!16s%2Fg%2F11v0x3mnxf?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D
+  awards: 9:00 pm
+  notes: Sunset is at 9:00 pm so we'll try to get everyone loaded up before it gets dark and then have awards after that.
 - id: 27
   lake: Lake Montanis
   date: Saturday July 19th
