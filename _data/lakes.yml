@@ -6,6 +6,13 @@
     Altoona Lake is a 720 acre lake located in Eau Claire County. It has a maximum depth of 25 feet. 
     Visitors have access to the lake from public boat landings, a public beach. Fish include Musky, Panfish, Smallmouth Bass and Walleye. 
     The lake's water clarity is low.
+- lake: Beaver Dam Lake
+  dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2081200
+  map_link: https://www.c-map.com/chartexplorer/?lat=45.546586&long=-92.029696&map=Discover&defaultZoom=15 
+  distance_from_ec: 74
+  notes: >
+    Beaver Dam Lake is a 1163 acre lake located in Barron County. It has a maximum depth of 106 feet. 
+    Visitors have access to the lake from public boat landings. Fish include Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Trout and Walleye.
 - lake: Dells Pond
   dnr_link: https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=2149900
   map_link: https://www.c-map.com/chartexplorer/?lat=44.831924&long=-91.492155&map=Discover&defaultZoom=15 
