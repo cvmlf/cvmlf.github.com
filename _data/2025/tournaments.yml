@@ -95,6 +95,72 @@
   landing_link: https://www.google.com/maps/place/Silver+Lake+Grant+Park/@45.5831433,-91.9334786,3336m/data=!3m1!1e3!4m14!1m7!3m6!1s0x52ad009da3fb6afd:0x5aaecd96fed97f45!2sSilver+Lake!8m2!3d45.5834184!4d-91.9216149!16s%2Fg%2F1hhjvws7y!3m5!1s0x52ad01f5e1f905d9:0xdb46c988ff35aa5b!8m2!3d45.5729548!4d-91.9206772!16s%2Fg%2F11v0x3mnxf?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D
   awards: 9:00 pm
   notes: Sunset is at 9:00 pm so we'll try to get everyone loaded up before it gets dark and then have awards after that.
+  big_bass: Big Bass 3.43 lbs (Harley E.)
+  results:
+  - name: Joey E.
+    weight: 16.31 lbs
+    fish: 12
+    points: '10.39'
+  - name: Jon R.
+    weight: 16.04 lbs
+    fish: 10
+    points: '8.89'
+  - name: Harley E.
+    weight: 14.08 lbs
+    fish: 8
+    points: '8.39'
+  - name: Charles V.
+    weight: 11.22 lbs
+    fish: 9
+    points: '5.89'
+  - name: Tony E.
+    weight: 10.05 lbs
+    fish: 7
+    points: '4.89'
+  - name: Josh B.
+    weight: 10.02 lbs
+    fish: 5
+    points: '3.89'
+  - name: Josh V.
+    weight: 8.89 lbs
+    fish: 6
+    points: '2.89'
+  - name: Dave B.
+    weight: 7.90 lbs
+    fish: 4
+    points: '2.00'
+  - name: Brian S.
+    weight: 6.44 lbs
+    fish: 4
+    points: '2.00'
+  - name: Dan J.
+    weight: 6.32 lbs
+    fish: 5
+    points: '2.00'
+  - name: Sam H.
+    weight: 5.82 lbs
+    fish: 5
+    points: '2.00'
+  - name: Matt V.
+    weight: 3.21 lbs
+    fish: 2
+    points: '2.00'
+  - name: Timmy E.
+    weight: 1.85 lbs
+    fish: 1
+    points: '2.00'
+  - name: Charlie V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Jed B.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Paxton S.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 - id: 27
   lake: Lake Montanis
   date: Saturday July 19th

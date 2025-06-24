@@ -85,19 +85,25 @@
                 </tr>
               {% endfor %}
             </table>
-                  <p>
-                    Big bass of the year<br/>
-                    {% for biggy in include.data.notes.big_bass %}
-                      {{ biggy.weight }} lb {{ biggy.type }} at {{ biggy.lake }} - {{ biggy.name }}
-                      <br/>
-                    {% endfor %}
-                  </p>
+                <p>
                   <small>
-                    {% if include.data.notes.no_championship %}
-                    {% else %}
-                      * Qualified for the CVMLF Championship Cup
-                    {% endif %}
+                    Each angler drops their lowest scoring tournament
                   </small>
+                </p>
+                <p>
+                  Big bass of the year<br/>
+                  {% for biggy in include.data.notes.big_bass %}
+                    {{ biggy.weight }} lb {{ biggy.type }} at {{ biggy.lake }} - {{ biggy.name }}
+                    <br/>
+                  {% endfor %}
+                </p>
+                <small>
+                  {% if include.data.notes.no_championship %}
+                  {% else %}
+                    * Qualified for the CVMLF Championship Cup
+                    <br/>
+                  {% endif %}
+                </small>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
