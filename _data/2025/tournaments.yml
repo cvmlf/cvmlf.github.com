@@ -164,8 +164,15 @@
 - id: 27
   lake: Lake Montanis
   date: Saturday July 19th
+  meeting: NONE
+  custom_scouting: Go as early as you want, but NO FISHING until lines in.
+  period1: 6:30 - 10:30 am
+  period2: 12:30 - 3:00 pm
+  landing: 20 mile radius of Dan's
+  landing_link: /img/montanis-road-runner-radius.png 
+  awards: 3:30 pm
   road_runner: true
-  notes: Road runner rules are still to be determined, but it will be a "fish anywhere" event with a 4 fish limit.
+  notes: Heavy Hitters format. Score your 4 largest fish. Any size can be weighed. See the email for more details.
 - id: 28
   lake: Holcombe Flowage
   date: Saturday August 2nd
