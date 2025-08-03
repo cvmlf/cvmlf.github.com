@@ -258,6 +258,61 @@
   awards: 3:30 pm
   landing_link: https://www.google.com/maps/place/27699+256th+St,+Holcombe,+WI+54745/@45.2444853,-91.1588732,839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x52ab5e9016816807:0xb102f499c5ce0844!8m2!3d45.2448823!4d-91.1567747!16s%2Fg%2F11b8y6d4kf?hl=en&entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D
   notes: Teams will be determined based on AOY points teaming up the first and last, etc.
+  big_bass: Big Bass 2.25 lbs (Justin B.)
+  results:
+  - name: Justin B.
+    weight: 7.60 lbs
+    fish: 4
+    points: '10.28'
+  - name: Charles V.
+    weight: 4.81 lbs
+    fish: 3
+    points: '7.78'
+  - name: Joey E.
+    weight: 4.65 lbs
+    fish: 4
+    points: '6.28'
+  - name: Jed B.
+    weight: 3.85 lbs
+    fish: 4
+    points: '4.78'
+  - name: Dan J.
+    weight: 3.84 lbs
+    fish: 3
+    points: '3.78'
+  - name: Tony E.
+    weight: 3.66 lbs
+    fish: 4
+    points: '2.78'
+  - name: Matt V.
+    weight: 1.38 lbs
+    fish: 1
+    points: '2.00'
+  - name: Harley E.
+    weight: 1.19 lbs
+    fish: 1
+    points: '2.00'
+  - name: Dave B.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Jon R.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Piper J.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Timmy E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+
 - id: 29
   lake: Mead Lake
   date: Saturday September 13th
