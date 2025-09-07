@@ -312,10 +312,16 @@
     weight: 0.00 lbs
     fish: 0
     points: '1.00'
-
 - id: 29
   lake: Mead Lake
   date: Saturday September 13th
+  meeting: 7:10 am
+  period1: 7:30 - 11:00 am
+  period2: 12:30 - 3:00 pm
+  landing: Mead Lake Campground Boat Landing
+  awards: 3:30 pm
+  landing_link: https://www.google.com/maps/place/44°47'36.5%22N+90°45'30.5%22W/@44.7934817,-90.7633359,846m/data=!3m2!1e3!4b1!4m12!1m7!3m6!1s0x87ff6e1f5064f28b:0x6114c437d747aab0!2sMead+Lake!8m2!3d44.7930204!4d-90.7615995!16s%2Fg%2F1tgfdyh2!3m3!8m2!3d44.793478!4d-90.758465?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D 
+  notes: The boat landing is at the camp grounds but lunch will be at the pavillion in the day use area.
 - id: 30
   lake: Miller Dam
   date: Saturday September 27th
