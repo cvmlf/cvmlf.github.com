@@ -1,33 +1,45 @@
+- name: Charles V.
+  points: '23.85'
+  tournaments: 5
+  qualified: true
+- name: Tony E.
+  points: '22.47'
+  tournaments: 5
+  qualified: true
 - name: Justin B.
   points: '22.40'
   tournaments: 2
   qualified: true
 - name: Joey E.
-  points: '20.29'
+  points: '21.29'
   tournaments: 4
   qualified: true
 - name: Jon R.
-  points: '19.51'
-  tournaments: 4
-- name: Harley E.
-  points: '16.01'
-  tournaments: 4
-- name: Tony E.
-  points: '15.79'
-  tournaments: 4
-- name: Charles V.
-  points: '15.67'
+  points: '20.51'
   tournaments: 4
   qualified: true
-- name: Jed B.
-  points: '14.56'
-  tournaments: 4
+- name: Harley E.
+  points: '18.01'
+  tournaments: 5
+  qualified: true
 - name: Matt V.
-  points: '14.28'
+  points: '16.28'
+  tournaments: 5
+  qualified: true
+- name: Jed B.
+  points: '15.56'
   tournaments: 4
   qualified: true
 - name: Dan J.
-  points: '11.18'
+  points: '13.86'
+  tournaments: 5
+  qualified: true
+- name: Dave B.
+  points: '11.46'
+  tournaments: 5
+  qualified: true
+- name: Sam H.
+  points: '10.18'
   tournaments: 4
 - name: Brian S.
   points: '8.62'
@@ -38,25 +50,21 @@
 - name: Anthony E.
   points: '8.28'
   tournaments: 2
-- name: Dave B.
-  points: '7.78'
-  tournaments: 4
-- name: Josh V.
-  points: '5.89'
-  tournaments: 4
 - name: Timmy E.
-  points: '5.00'
-  tournaments: 4
-- name: Sam H.
-  points: '5.00'
-  tournaments: 3
-- name: Paxton S.
+  points: '8.00'
+  tournaments: 5
+  qualified: true
+- name: Josh V.
+  points: '6.89'
+  tournaments: 5
+  qualified: true
+- name: Tyler C.
+  points: '4.00'
+  tournaments: 2
+- name: Piper J.
   points: '2.00'
   tournaments: 2
-- name: Tyler C.
-  points: '2.00'
-  tournaments: 1
-- name: Piper J.
+- name: Paxton S.
   points: '2.00'
   tournaments: 2
 - name: Charlie V.

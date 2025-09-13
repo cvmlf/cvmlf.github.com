@@ -322,6 +322,48 @@
   awards: 3:30 pm
   landing_link: https://www.google.com/maps/place/44°47'36.5%22N+90°45'30.5%22W/@44.7934817,-90.7633359,846m/data=!3m2!1e3!4b1!4m12!1m7!3m6!1s0x87ff6e1f5064f28b:0x6114c437d747aab0!2sMead+Lake!8m2!3d44.7930204!4d-90.7615995!16s%2Fg%2F1tgfdyh2!3m3!8m2!3d44.793478!4d-90.758465?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D 
   notes: The boat landing is at the camp grounds but lunch will be at the pavillion in the day use area.
+  big_bass: Big Bass 2.77 lbs (Timmy E.)
+  results:
+  - name: Charles V.
+    weight: 14.19 lbs
+    fish: 7
+    points: '8.18'
+  - name: Tony E.
+    weight: 12.42 lbs
+    fish: 8
+    points: '6.68'
+  - name: Sam H.
+    weight: 7.45 lbs
+    fish: 4
+    points: '5.18'
+  - name: Dave B.
+    weight: 7.38 lbs
+    fish: 5
+    points: '3.68'
+  - name: Dan J.
+    weight: 5.81 lbs
+    fish: 3
+    points: '2.68'
+  - name: Tyler C.
+    weight: 5.08 lbs
+    fish: 3
+    points: '2.00'
+  - name: Timmy E.
+    weight: 2.77 lbs
+    fish: 1
+    points: '3.00'
+  - name: Harley E.
+    weight: 2.11 lbs
+    fish: 1
+    points: '2.00'
+  - name: Matt V.
+    weight: 1.38 lbs
+    fish: 1
+    points: '2.00'
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 - id: 30
   lake: Miller Dam
   date: Saturday September 27th
