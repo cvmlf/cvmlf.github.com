@@ -1,25 +1,3 @@
-# Example
-# lake: Lake Eau Galle
-# date: Saturday April 29th
-# meeting: 8:00 am
-# period1: 8:30 - 11:30 am
-# period2: 1:00 - 4:00 pm
-# landing: Grant Park Boat Landing
-# landing_link: http://maps.google.com/maps?q=44.70144020,+-92.01314570&hl=en&sll=44.70144020,-92.01314570&sspn=0.462242,0.88028&t=h&z=16
-# awards:  4:30 pm 
-# heavy_hitters: false
-# team: false
-# championship: false
-# big_bass:
-# notes:
-#
-#
-# April 26th - Dells Pond
-#June 21st - Silver Lake
-#July 19th - Lake Montanis (Road Runner)
-#August  2nd - Holcombe Flowage (Team Challenge)
-#September 13th - Mead Lake
-#September 27th - Miller Dam (Championship Cup)
 ---
 - id: 25
   lake: Dells Pond
@@ -368,3 +346,9 @@
   lake: Miller Dam
   date: Saturday September 27th
   championship: true
+  meeting: 7:30 am
+  period1: 8:00 - 11:00 am
+  period2: 12:30 - 3:30 pm
+  landing: Miller Dam County Park
+  awards: 4:00 pm
+  landing_link: https://www.google.com/maps/place/45°12'05.6%22N+90°42'36.3%22W/@45.2015618,-90.7126667,840m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d45.2015618!4d-90.7100918?hl=en&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D
