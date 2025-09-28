@@ -353,3 +353,56 @@
   awards: 4:00 pm
   landing_link: https://www.google.com/maps/place/45°12'05.6%22N+90°42'36.3%22W/@45.2015618,-90.7126667,840m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d45.2015618!4d-90.7100918?hl=en&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D
   notes: Target weight for the 1st period will be 5 lbs.
+  big_bass: Big Bass 3.61 lbs (Joey E.)
+  target-weight: 5.0 lbs
+  period1-results:
+  - name: Charles V.
+    weight: 7.00 lbs
+    fish: 3
+  - name: Joey E.
+    weight: 5.23 lbs
+    fish: 3
+  - name: Dave B.
+    weight: 5.00 lbs
+    fish: 2
+  - name: Dan J.
+    weight: 4.32 lbs
+    fish: 2
+  - name: Tony E.
+    weight: 3.30 lbs
+    fish: 2
+  - name: ------- Cut Line ---------
+  - name: Harley E.
+    weight: 3.21 lbs
+    fish: 1
+  - name: Timmy E.
+    weight: 1.76 lbs
+    fish: 1
+  - name: Matt V.
+    weight: 1.08 lbs
+    fish: 1
+  - name: Jon R.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+  - name: Justin B.
+    weight: 0.00 lbs
+    fish: 0
+  period2-results:
+  - name: Joey E.
+    weight: 5.68 lbs
+    fish: 2
+  - name: Dave B.
+    weight: 4.68 lbs
+    fish: 2
+  - name: Dan J.
+    weight: 1.43 lbs
+    fish: 1
+  - name: Charles V.
+    weight: 1.32 lbs
+    fish: 1
+  - name: Tony E.
+    weight: 0.00 lbs
+    fish: 0
