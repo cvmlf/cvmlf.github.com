@@ -22,6 +22,9 @@ layout: sub-pages
               </p>
               <p>Distance from Eau Claire: {{ lake.distance_from_ec }} miles</p>
               <p>Distance from Rice Lake: {{ lake.distance_from_rl }} miles</p>
+              {% if lake.landing_fee %} 
+                <p>Boat Landing Fee: ${{ lake.landing_fee }}</p>
+              {% endif %}
               <p>{{ lake.notes }}</p>
               <hr/>
             </li>

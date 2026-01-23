@@ -3,6 +3,7 @@
   map_link: https://www.c-map.com/chartexplorer/?lat=44.812128&long=-91.429882&map=Discover&defaultZoom=15 
   distance_from_ec: 4
   distance_from_rl: 58
+  landing_fee: 6
   notes: >
     Altoona Lake is a 720 acre lake located in Eau Claire County. It has a maximum depth of 25 feet. 
     Visitors have access to the lake from public boat landings, a public beach. Fish include Musky, Panfish, Smallmouth Bass and Walleye. 
@@ -38,6 +39,7 @@
   map_link: https://www.c-map.com/chartexplorer/?lat=44.759761&long=-91.101241&map=Discover&defaultZoom=15 
   distance_from_ec: 25
   distance_from_rl: 81
+  landing_fee: 6
   notes: >
     Eau Claire Lake is a 870 acre lake located in Eau Claire County.
     It has a maximum depth of 25 feet. Visitors have access to the lake from public boat landings. 
@@ -82,6 +84,7 @@
   map_link: https://www.c-map.com/chartexplorer/?lat=45.201785&long=-90.710210&map=Discover&defaultZoom=15
   distance_from_ec: 62
   distance_from_rl: 63
+  landing_fee: 2
   notes: >
     Chequamegon Waters Flowage is a 2366 acre lake located in Taylor County. 
     It has a maximum depth of 22 feet. Visitors have access to the lake from public boat landings. 
