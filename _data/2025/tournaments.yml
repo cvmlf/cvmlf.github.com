@@ -237,6 +237,19 @@
   landing_link: https://www.google.com/maps/place/27699+256th+St,+Holcombe,+WI+54745/@45.2444853,-91.1588732,839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x52ab5e9016816807:0xb102f499c5ce0844!8m2!3d45.2448823!4d-91.1567747!16s%2Fg%2F11b8y6d4kf?hl=en&entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D
   notes: Teams will be determined based on AOY points teaming up the first and last, etc.
   big_bass: Big Bass 2.25 lbs (Justin B.)
+  team_results:
+  - team: Charles & Jed
+    weight: 7.11 lbs
+  - team: Dan & Matt
+    weight: 5.22 lbs
+  - team: Joey & Timmy
+    weight: 4.65 lbs
+  - team: Tony & Dave
+    weight: 3.66 lbs
+  - team: Harley & Piper
+    weight: 1.19 lbs
+  - team: Jon & Josh
+    weight: 0.00 lbs
   results:
   - name: Justin B.
     weight: 7.60 lbs

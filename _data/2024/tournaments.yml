@@ -208,6 +208,25 @@
   landing_link: http://maps.google.com/maps?q=44.7934535,+-90.7588711&hl=en&sll=44.7934535,-90.7588711&sspn=0.462242,0.88028&t=h&z=16
   notes: This is a team tournament <ul><li>Teams of 2</li> <li>5 largest fish for the team</li> <li>Team members can score max 4 fish</li><li>Individual tournament is 4 biggest</li> </ul>
   big_bass: Big Bass 3.94 lbs (Harley E.)
+  team_results:
+  - team: Joey & Josh
+    weight: 14.82 lbs
+  - team: Harley & Caleb
+    weight: 12.46 lbs
+  - team: Justin & Timmy
+    weight: 10.95 lbs
+  - team: Sam & Charles
+    weight: 10.10 lbs
+  - team: Brian & Dan
+    weight: 9.10 lbs
+  - team: Joshua & Tony
+    weight: 7.99 lbs
+  - team: Matt & Jesse
+    weight: 4.31 lbs
+  - team: Anthony & Piper
+    weight: 3.88 lbs
+  - team: Dave & Jed
+    weight: 1.50 lbs 
   results:
   - name: Joey E.
     weight: 12.64 lbs

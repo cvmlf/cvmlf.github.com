@@ -188,6 +188,17 @@
   landing: https://www.google.com/maps/place/Silver+Lake+Grant+Park/@45.5755509,-91.9161408,16z/data=!4m6!3m5!1s0x52ad01f5e1f905d9:0xdb46c988ff35aa5b!8m2!3d45.5729548!4d-91.9206772!16s%2Fg%2F11v0x3mnxf?entry=ttu6
   awards:  3:30 pm 
   big_bass: Big Bass 2.38 lbs (Joey E.)
+  team_results:
+  - team: Joey & Charles
+    weight: 9.23 lbs
+  - team: Tony & Matt
+    weight: 7.39 lbs
+  - team: Anthony & Harley
+    weight: 6.90 lbs
+  - team: Josh & Dan
+    weight: 5.56 lbs
+  - team: Cael & Brian
+    weight: 1.45 lbs
   results:
   - name: Joey E.
     weight: 14.33 lbs

@@ -137,6 +137,45 @@
 
                     {% if t.results.size > 0 %}
 
+                        {% if t.team == true %}
+                        <p>Team Results</p>
+                        <table class="table table-condensed table-striped">
+                          <thead>
+                            <tr>
+                              <th>Team</th>
+                              <th>Weight</th>
+                            </tr>
+                          </thead>
+                          
+                            {% for team in t.team_results %}
+                            <tr>
+                            <td>{{ team.team }}</td>
+                            <td>{{ team.weight }}</td>
+                            </tr>
+                            {% endfor %}
+                        </table>
+
+                        <p>Individual Results</p>
+                        <table class="table table-condensed table-striped">
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Fish</th>
+                              <th>Weight</th>
+                              <th>Points</th>
+                            </tr>
+                          </thead>
+                          
+                            {% for results in t.results %}
+                            <tr>
+                            <td>{{ results.name }}</td>
+                            <td>{{ results.fish }}</td>
+                            <td>{{ results.weight }}</td>
+                            <td>{{ results.points }}</td>
+                            </tr>
+                            {% endfor %}
+                        </table>
+                        {% else %}
                         <p>Results {% if t.heavy_hitters == true %} of best {{ t.limit }} fish {% endif %} </p>
                         <table class="table table-condensed table-striped">
                           <thead>
@@ -164,6 +203,7 @@
                         <p>
                             {{ t.big_bass}} 
                         </p>
+                        {% endif %}
 
                     {% elsif t.period1-results.size > 0 %}
                       
