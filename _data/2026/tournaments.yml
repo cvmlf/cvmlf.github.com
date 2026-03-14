@@ -13,7 +13,7 @@
   championship: false
   notes: This is going to be an evening tournament.
 - id: 27
-  lake: TBD
+  lake: Beaver Dam
   date: Saturday June 20th
   heavy_hitters: false
   team: false
@@ -31,7 +31,7 @@
   heavy_hitters: false
   team: false
   championship: false
-- id: 29
+- id: 30
   lake: Holcombe Flowage
   date: Saturday September 26th
   heavy_hitters: false
