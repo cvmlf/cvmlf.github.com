@@ -1,0 +1,39 @@
+---
+- id: 25
+  lake: Upper Turtle Lake
+  date: Saturday May 9th
+  heavy_hitters: false
+  team: false
+  championship: false
+- id: 26
+  lake: Otter Lake
+  date: Saturday June 6th
+  heavy_hitters: false
+  team: false
+  championship: false
+  notes: This is going to be an evening tournament.
+- id: 27
+  lake: TBD
+  date: Saturday June 20th
+  heavy_hitters: false
+  team: false
+  championship: false
+  road_runner: true
+- id: 28
+  lake: Silver Lake
+  date: Saturday August 1st
+  heavy_hitters: false
+  team: true
+  championship: false
+- id: 29
+  lake: Mead Lake
+  date: Saturday August 29th
+  heavy_hitters: false
+  team: false
+  championship: false
+- id: 29
+  lake: Holcombe Flowage
+  date: Saturday September 26th
+  heavy_hitters: false
+  team: false
+  championship: true
