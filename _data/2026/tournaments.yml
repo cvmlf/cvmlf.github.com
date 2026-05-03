@@ -2,6 +2,13 @@
 - id: 25
   lake: Upper Turtle Lake
   date: Saturday May 9th
+  meeting: 7:40 am
+  period1: 8:00 - 11:00 am
+  period2: 12:30 - 3:30 pm
+  landing: Wayside Park
+  landing_link: https://www.google.com/maps/place/Wayside+Park/@45.4079642,-92.0893107,223m/data=!3m1!1e3!4m14!1m7!3m6!1s0x52ad1202c498411b:0x8a20e961d90adf5c!2sUpper+Turtle+Lake!8m2!3d45.4247227!4d-92.0975195!16s%2Fg%2F1hhhr_fn7!3m5!1s0x52ad118defaaaaab:0xd44989723f0cdc71!8m2!3d45.4079751!4d-92.0883533!16s%2Fg%2F11xvtvdf4m?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D
+  awards: 4:00 pm
+  notes: 
   heavy_hitters: false
   team: false
   championship: false
