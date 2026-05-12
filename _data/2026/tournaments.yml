@@ -12,6 +12,72 @@
   heavy_hitters: false
   team: false
   championship: false
+  big_bass: Big Bass 3.24 lbs (Tony E.)
+  results:
+  - name: Justin B.
+    weight: 31.91 lbs
+    fish: 24
+    points: '10.39'
+  - name: Joey E.
+    weight: 23.21 lbs
+    fish: 16
+    points: '8.89'
+  - name: Tony E.
+    weight: 19.71 lbs
+    fish: 13
+    points: '8.39'
+  - name: Jon R.
+    weight: 19.69 lbs
+    fish: 12
+    points: '5.89'
+  - name: Dan J.
+    weight: 9.49 lbs
+    fish: 6
+    points: '4.89'
+  - name: Charles V.
+    weight: 9.22 lbs
+    fish: 6
+    points: '3.89'
+  - name: Harley E.
+    weight: 8.30 lbs
+    fish: 6
+    points: '2.89'
+  - name: Sam H.
+    weight: 6.00 lbs
+    fish: 4
+    points: '2.00'
+  - name: Matt V.
+    weight: 5.63 lbs
+    fish: 3
+    points: '2.00'
+  - name: Treh R.
+    weight: 2.66 lbs
+    fish: 1
+    points: '2.00'
+  - name: Josh B.
+    weight: 1.50 lbs
+    fish: 1
+    points: '2.00'
+  - name: Josh V.
+    weight: 1.36 lbs
+    fish: 1
+    points: '2.00'
+  - name: Dave B.
+    weight: 1.13 lbs
+    fish: 1
+    points: '2.00'
+  - name: Jed B.
+    weight: 1.00 lbs
+    fish: 1
+    points: '2.00'
+  - name: Joshua S.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Timmy E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 - id: 26
   lake: Otter Lake
   date: Saturday June 6th
