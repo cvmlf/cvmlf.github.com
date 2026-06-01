@@ -81,10 +81,16 @@
 - id: 26
   lake: Otter Lake
   date: Saturday June 6th
+  meeting: 12:40 pm
+  period1: 1:00 - 4:00 pm
+  period2: 5:30 - 8:30 pm
+  landing: Day Use Park
+  landing_link: https://www.google.com/maps/place/45°05'16.6%22N+90°57'19.5%22W/@45.087944,-90.9579889,728m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d45.087944!4d-90.955414?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D
+  awards: 9:00 pm
   heavy_hitters: false
   team: false
   championship: false
-  notes: This is going to be an evening tournament.
+  notes: This is an evening tournament.
 - id: 27
   lake: Beaver Dam Lake
   date: Saturday June 20th
