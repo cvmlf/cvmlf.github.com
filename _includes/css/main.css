@@ -509,3 +509,13 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.message-banner {
+    padding: 15px;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #fff;
+    background: rgba(0,0,0,0.2);
+    border-radius: 6px;
+    margin: 10px 0;
+}

@@ -38,10 +38,20 @@ function checkLive() {
     $.ajax({
         //url: "http://localhost:3000/live",
         url: "https://live.cvmlf.com/live",
-        cache: false
+        cache: false,
+        dataType: "text"
     })
-    .done(function (html) {
-        $("#live-header").html(html);
+    .done(function (data) {
+        try {
+            var json = JSON.parse(data);
+            if (json.message) {
+                $("#live-header").html('<div class="message-banner">' + json.message + '</div>');
+            } else {
+                $("#live-header").html(data);
+            }
+        } catch(_e) {
+            $("#live-header").html(data);
+        }
     })
     .fail(function() {
       clearInterval(timerId);
