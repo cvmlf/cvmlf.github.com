@@ -1,49 +1,65 @@
 - name: Justin B.
-  points: '10.39'
-  tournaments: 1
+  points: '20.75'
+  tournaments: 2
+  qualified: true
+- name: Tony E.
+  points: '20.25'
+  tournaments: 2
   qualified: true
 - name: Joey E.
-  points: '8.89'
-  tournaments: 1
-- name: Tony E.
-  points: '8.39'
-  tournaments: 1
+  points: '16.25'
+  tournaments: 2
 - name: Jon R.
-  points: '5.89'
-  tournaments: 1
-- name: Dan J.
-  points: '4.89'
-  tournaments: 1
+  points: '12.25'
+  tournaments: 2
+- name: Dave B.
+  points: '10.86'
+  tournaments: 2
 - name: Charles V.
-  points: '3.89'
-  tournaments: 1
-- name: Harley E.
-  points: '2.89'
-  tournaments: 1
-- name: Treh R.
-  points: '2.00'
-  tournaments: 1
+  points: '7.25'
+  tournaments: 2
+- name: Dan J.
+  points: '6.89'
+  tournaments: 2
 - name: Sam H.
-  points: '2.00'
+  points: '6.36'
+  tournaments: 2
+- name: Jim R.
+  points: '5.36'
   tournaments: 1
+- name: Jed B.
+  points: '5.36'
+  tournaments: 2
+- name: Treh R.
+  points: '4.00'
+  tournaments: 2
+- name: Harley E.
+  points: '3.89'
+  tournaments: 2
+- name: Matt V.
+  points: '3.00'
+  tournaments: 2
+- name: Josh V.
+  points: '3.00'
+  tournaments: 2
+- name: Joshua S.
+  points: '3.00'
+  tournaments: 2
 - name: Josh B.
   points: '2.00'
   tournaments: 1
-- name: Matt V.
-  points: '2.00'
-  tournaments: 1
-- name: Josh V.
-  points: '2.00'
-  tournaments: 1
-- name: Jed B.
-  points: '2.00'
-  tournaments: 1
-- name: Dave B.
+- name: Brian S.
   points: '2.00'
   tournaments: 1
 - name: Timmy E.
-  points: '1.00'
+  points: '2.00'
+  tournaments: 2
+- name: Paxton S.
+  points: '2.00'
   tournaments: 1
-- name: Joshua S.
+- name: Anthony E.
+  points: '2.00'
+  tournaments: 1
+- name: Charlie V.
   points: '1.00'
   tournaments: 1

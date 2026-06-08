@@ -78,7 +78,7 @@
     weight: 0.00 lbs
     fish: 0
     points: '1.00'
-- id: 26
+- id: 32
   lake: Otter Lake
   date: Saturday June 6th
   meeting: 12:40 pm
@@ -91,6 +91,88 @@
   team: false
   championship: false
   notes: This is an evening tournament.
+  big_bass: Big Bass 3.50 lbs (Charles V.)
+  results:
+  - name: Tony E.
+    weight: 18.66 lbs
+    fish: 11
+    points: '11.86'
+  - name: Justin B.
+    weight: 17.01 lbs
+    fish: 12
+    points: '10.36'
+  - name: Dave B.
+    weight: 12.01 lbs
+    fish: 7
+    points: '8.86'
+  - name: Joey E.
+    weight: 10.64 lbs
+    fish: 8
+    points: '7.36'
+  - name: Jon R.
+    weight: 9.88 lbs
+    fish: 7
+    points: '6.36'
+  - name: Jim R.
+    weight: 7.87 lbs
+    fish: 6
+    points: '5.36'
+  - name: Sam H.
+    weight: 6.98 lbs
+    fish: 6
+    points: '4.36'
+  - name: Jed B.
+    weight: 3.57 lbs
+    fish: 3
+    points: '3.36'
+  - name: Charles V.
+    weight: 3.50 lbs
+    fish: 1
+    points: '3.36'
+  - name: Joshua S.
+    weight: 2.82 lbs
+    fish: 2
+    points: '2.00'
+  - name: Dan J.
+    weight: 2.75 lbs
+    fish: 2
+    points: '2.00'
+  - name: Paxton S.
+    weight: 2.29 lbs
+    fish: 1
+    points: '2.00'
+  - name: Anthony E.
+    weight: 2.00 lbs
+    fish: 1
+    points: '2.00'
+  - name: Brian S.
+    weight: 1.10 lbs
+    fish: 1
+    points: '2.00'
+  - name: Treh R.
+    weight: 1.00 lbs
+    fish: 1
+    points: '2.00'
+  - name: Charlie V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Harley E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Josh V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Matt V.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Timmy E.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
 - id: 27
   lake: Beaver Dam Lake
   date: Saturday June 20th
