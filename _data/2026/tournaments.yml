@@ -180,6 +180,14 @@
   team: false
   championship: false
   road_runner: true
+  meeting: No meeting
+  period1: 7:00 - 2:00 pm
+  period2: No period 2
+  landing: Cumberland Tourist Park
+  landing_link: https://www.google.com/maps/place/Cumberland+Tourist+Park+%26+Beach/@45.5434283,-92.0203128,260m/data=!3m1!1e3!4m6!3m5!1s0x52ad062ce973d40b:0x2f16f0e3ff2a1106!8m2!3d45.5437654!4d-92.0208722!16s%2Fg%2F11c53mztxp?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D
+  awards: 3:30 pm
+  notes: Cookout at Cumberland Tourist Park. See link above. Below is the 10 mile radius of water that is in bounds.
+  info_image: /img/beaver_dam_road_runner.jpg
 - id: 28
   lake: Silver Lake
   date: Saturday August 1st

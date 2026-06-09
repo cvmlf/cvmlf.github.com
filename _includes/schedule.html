@@ -304,6 +304,12 @@
                               <br/>
                               Note: {{ t.notes }}
                             {% endif %}
+
+                            {% if t.info_image %}
+                              <br/>
+                              <br/>
+                              <img src="{{ t.info_image }}"/>
+                            {% endif %}
                         </p>
 
                     {% endif %}

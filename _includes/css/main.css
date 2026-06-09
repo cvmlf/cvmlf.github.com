@@ -456,7 +456,9 @@ footer .footer-below {
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content img {
+.modal .modal-content img {
+    max-width: 100%;
+    height: auto;
     margin-bottom: 30px;
 }
 
