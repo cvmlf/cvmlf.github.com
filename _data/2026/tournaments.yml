@@ -173,7 +173,7 @@
     weight: 0.00 lbs
     fish: 0
     points: '1.00'
-- id: 27
+- id: 33
   lake: Beaver Dam Lake
   date: Saturday June 20th
   heavy_hitters: false
@@ -188,6 +188,80 @@
   awards: 3:30 pm
   notes: Cookout at Cumberland Tourist Park. See link above. Below is the 10 mile radius of water that is in bounds.
   info_image: /img/beaver_dam_road_runner.jpg
+  big_bass: Big Bass 3.70 lbs (Tony E.)
+  results:
+  - name: Tony E.
+    weight: 11.94 lbs
+    fish: 4
+    points: '11.39'
+  - name: Timmy E.
+    weight: 9.07 lbs
+    fish: 4
+    points: '8.89'
+  - name: Harley E.
+    weight: 8.32 lbs
+    fish: 4
+    points: '7.39'
+  - name: Jon R.
+    weight: 7.17 lbs
+    fish: 4
+    points: '5.89'
+  - name: Dan J.
+    weight: 6.04 lbs
+    fish: 4
+    points: '4.89'
+  - name: Joey E.
+    weight: 5.90 lbs
+    fish: 4
+    points: '3.89'
+  - name: Treh R.
+    weight: 5.59 lbs
+    fish: 4
+    points: '2.89'
+  - name: Josh V.
+    weight: 5.54 lbs
+    fish: 4
+    points: '2.00'
+  - name: Charles V.
+    weight: 4.48 lbs
+    fish: 4
+    points: '2.00'
+  - name: Anthony E.
+    weight: 2.88 lbs
+    fish: 4
+    points: '2.00'
+  - name: Sam H.
+    weight: 2.10 lbs
+    fish: 2
+    points: '2.00'
+  - name: Piper J.
+    weight: 1.65 lbs
+    fish: 2
+    points: '2.00'
+  - name: Justin B.
+    weight: 6.35 lbs
+    fish: 4
+    points: '2.00'
+    disqualified: true
+    notes: The Becker's self imposed a ranking change.
+  - name: Jon B.
+    weight: 6.13 lbs
+    fish: 4
+    points: '2.00'
+    disqualified: true
+    notes: The Becker's self imposed a ranking change.
+  - name: Dave B.
+    weight: 4.91 lbs
+    fish: 4
+    points: '2.00'
+    disqualified: true
+    notes: The Becker's self imposed a ranking change.
+  - name: Jed B.
+    weight: 3.58 lbs
+    fish: 4
+    points: '2.00'
+    disqualified: true
+    notes: The Becker's self imposed a ranking change.
 - id: 28
   lake: Silver Lake
   date: Saturday August 1st

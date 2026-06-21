@@ -161,13 +161,17 @@
                           
                             {% for results in t.results %}
                             <tr>
-                            <td>{{ results.name }}</td>
+                            <td>{{ results.name }}{% if results.disqualified == true %} *{% endif %}</td>
                             <td>{{ results.fish }}</td>
                             <td>{{ results.weight }}</td>
                             <td>{{ results.points }}</td>
                             </tr>
                             {% endfor %}
                         </table>
+                        {% assign dqed = t.results | where: "disqualified", true %}
+                        {% if dqed.size > 0 %}
+                          <small>* {{ dqed[0].notes }}</small>
+                        {% endif %}
                         {% else %}
                         <p>Results {% if t.heavy_hitters == true %} of best {{ t.limit }} fish {% endif %} </p>
                         <table class="table table-condensed table-striped">
@@ -182,7 +186,7 @@
                           
                             {% for results in t.results %}
                             <tr>
-                            <td>{{ results.name }}</td>
+                            <td>{{ results.name }}{% if results.disqualified == true %} *{% endif %}</td>
                             {% if t.limit > 0 %}
                               <td>{{ results.fish  | at_most: t.limit }}</td>
                             {% else %}
@@ -196,6 +200,10 @@
                         <p>
                             {{ t.big_bass}} 
                         </p>
+                        {% assign dqed = t.results | where: "disqualified", true %}
+                        {% if dqed.size > 0 %}
+                          <small>* {{ dqed[0].notes }}</small>
+                        {% endif %}
                         {% endif %}
 
                     {% elsif t.period1-results.size > 0 %}
