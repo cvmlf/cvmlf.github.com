@@ -153,8 +153,8 @@
                           <thead>
                             <tr>
                               <th>Name</th>
-                              <th>Fish</th>
                               <th>Weight</th>
+                              <th>Fish</th>
                               <th>Points</th>
                             </tr>
                           </thead>
@@ -162,8 +162,8 @@
                             {% for results in t.results %}
                             <tr>
                             <td>{{ results.name }}{% if results.disqualified == true %} *{% endif %}</td>
-                            <td>{{ results.fish }}</td>
                             <td>{{ results.weight }}</td>
+                            <td>{{ results.fish }}</td>
                             <td>{{ results.points }}</td>
                             </tr>
                             {% endfor %}
@@ -178,8 +178,8 @@
                           <thead>
                             <tr>
                               <th>Name</th>
-                              <th>Fish</th>
                               <th>Weight</th>
+                              <th>Fish</th>
                               <th>Points</th>
                             </tr>
                           </thead>
@@ -187,12 +187,12 @@
                             {% for results in t.results %}
                             <tr>
                             <td>{{ results.name }}{% if results.disqualified == true %} *{% endif %}</td>
+                            <td>{{ results.weight }}</td>
                             {% if t.limit > 0 %}
                               <td>{{ results.fish  | at_most: t.limit }}</td>
                             {% else %}
                               <td>{{ results.fish }}</td>
                             {% endif %}
-                            <td>{{ results.weight }}</td>
                             <td>{{ results.points }}</td>
                             </tr>
                             {% endfor %}
@@ -213,18 +213,18 @@
                           <thead>
                             <tr>
                               <th>Name</th>
-                              <th>Fish</th>
                               <th>Weight</th>
                               <th></th>
+                              <th>Fish</th>
                             </tr>
                           </thead>
                           
                             {% for results in t.period2-results %}
                             <tr>
                             <td>{{ results.name }}</td>
-                            <td>{{ results.fish }}</td>
                             <td>{{ results.weight }}</td>
                             <td>{{ results.notes }}</td>
+                            <td>{{ results.fish }}</td>
                             </tr>
                             {% endfor %}
                         </table>
@@ -235,18 +235,18 @@
                           <thead>
                             <tr>
                               <th>Name</th>
-                              <th>Fish</th>
                               <th>Weight</th>
                               <th></th>
+                              <th>Fish</th>
                             </tr>
                           </thead>
                           
                             {% for results in t.period1-results %}
                             <tr>
                             <td>{{ results.name }}</td>
-                            <td>{{ results.fish }}</td>
                             <td>{{ results.weight }}</td>
                             <td>{{ results.notes }}</td>
+                            <td>{{ results.fish }}</td>
                             </tr>
                             {% endfor %}
                         </table>
