@@ -129,7 +129,7 @@ function teamView(data) {
     ${data.individual_standings ? `
       <p style="text-align:center;margin-top:20px;"><strong>Individual Standings</strong></p>
       ${table([['Angler', 'padding-right:96px;'], ['Weight', 'padding-right:96px;'], ['Fish', '']], indRows)}
-      <p style="text-align:center;font-style:italic;margin-top:8px;"><em>${data.big_bass}</em></p>` : ''}`;
+      ${data.big_bass ? `<p style="text-align:center;font-style:italic;margin-top:8px;"><em>${data.big_bass}</em></p>` : ''}` : ''}`;
 }
 
 function leaderBoard(data) {
