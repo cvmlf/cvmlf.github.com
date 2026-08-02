@@ -1,72 +1,78 @@
-- name: Tony E.
-  points: '23.25'
-  tournaments: 3
-  qualified: true
-- name: Justin B.
-  points: '20.75'
-  tournaments: 3
-  qualified: true
-- name: Joey E.
-  points: '16.25'
-  tournaments: 3
-- name: Jon R.
-  points: '12.25'
-  tournaments: 3
-- name: Dave B.
-  points: '10.86'
-  tournaments: 3
-- name: Harley E.
-  points: '10.28'
-  tournaments: 3
-- name: Timmy E.
-  points: '9.89'
-  tournaments: 3
-  qualified: true
-- name: Dan J.
-  points: '9.78'
-  tournaments: 3
-- name: Charles V.
-  points: '7.25'
-  tournaments: 3
-- name: Sam H.
-  points: '6.36'
-  tournaments: 3
-- name: Jim R.
-  points: '5.36'
-  tournaments: 1
-- name: Jed B.
-  points: '5.36'
-  tournaments: 3
-- name: Treh R.
-  points: '4.89'
-  tournaments: 3
-- name: Josh V.
-  points: '4.00'
-  tournaments: 3
-- name: Anthony E.
-  points: '4.00'
-  tournaments: 2
-- name: Matt V.
-  points: '3.00'
-  tournaments: 2
-- name: Joshua S.
-  points: '3.00'
-  tournaments: 2
-- name: Paxton S.
-  points: '2.00'
-  tournaments: 1
-- name: Piper J.
-  points: '2.00'
-  tournaments: 1
-- name: Jon B.
-  points: '2.00'
-  tournaments: 1
-- name: Brian S.
-  points: '2.00'
-  tournaments: 1
-- name: Josh B.
-  points: '2.00'
-  tournaments: 1
-- name: Charlie V.
-  points: '1.00'
-  tournaments: 1
+standings:
+  - name: Tony E.
+    points: '31.64'
+    tournaments: 4
+    qualified: true
+  - name: Justin B.
+    points: '31.40'
+    tournaments: 4
+    qualified: true
+  - name: Joey E.
+    points: '20.14'
+    tournaments: 3
+  - name: Jon R.
+    points: '18.14'
+    tournaments: 4
+  - name: Dave B.
+    points: '17.51'
+    tournaments: 4
+  - name: Charles V.
+    points: '15.40'
+    tournaments: 4
+    qualified: true
+  - name: Dan J.
+    points: '14.93'
+    tournaments: 4
+  - name: Harley E.
+    points: '14.43'
+    tournaments: 4
+  - name: Timmy E.
+    points: '12.04'
+    tournaments: 4
+    qualified: true
+  - name: Sam H.
+    points: '8.36'
+    tournaments: 4
+  - name: Jed B.
+    points: '7.36'
+    tournaments: 3
+  - name: Treh R.
+    points: '6.89'
+    tournaments: 4
+  - name: Josh V.
+    points: '6.00'
+    tournaments: 4
+  - name: Jim R.
+    points: '5.36'
+    tournaments: 1
+  - name: Paxton S.
+    points: '4.00'
+    tournaments: 2
+  - name: Anthony E.
+    points: '4.00'
+    tournaments: 2
+  - name: Matt V.
+    points: '3.00'
+    tournaments: 2
+  - name: Brian S.
+    points: '3.00'
+    tournaments: 2
+  - name: Piper J.
+    points: '3.00'
+    tournaments: 2
+  - name: Joshua S.
+    points: '3.00'
+    tournaments: 2
+  - name: Jon B.
+    points: '2.00'
+    tournaments: 1
+  - name: Josh B.
+    points: '2.00'
+    tournaments: 1
+  - name: Charlie V.
+    points: '1.00'
+    tournaments: 1
+big_bass:
+  - name: Tony E.
+    weight: '3.70'
+    lake: Beaver Dam Lake

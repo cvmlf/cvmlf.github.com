@@ -262,7 +262,7 @@
     points: '2.00'
     disqualified: true
     notes: The Becker's self imposed a ranking change.
-- id: 28
+- id: 34
   lake: Silver Lake
   date: Saturday August 1st
   heavy_hitters: false
@@ -274,6 +274,80 @@
   landing: Grant Park Landing
   landing_link: https://www.google.com/maps/place/Silver+Lake+Grant+Park/@45.5729548,-91.9232521,830m/data=!3m2!1e3!4b1!4m6!3m5!1s0x52ad01f5e1f905d9:0xdb46c988ff35aa5b!8m2!3d45.5729548!4d-91.9206772!16s%2Fg%2F11v0x3mnxf?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D 
   awards: 3:30 pm
+  big_bass: Big Bass 2.40 lbs (Justin B.)
+  results:
+  - name: Justin B.
+    weight: 7.93 lbs
+    fish: 4
+    points: '10.65'
+  - name: Charles V.
+    weight: 6.19 lbs
+    fish: 4
+    points: '8.15'
+  - name: Dave B.
+    weight: 5.85 lbs
+    fish: 4
+    points: '6.65'
+  - name: Dan J.
+    weight: 5.76 lbs
+    fish: 4
+    points: '5.15'
+  - name: Harley E.
+    weight: 5.67 lbs
+    fish: 4
+    points: '4.15'
+  - name: Jon R.
+    weight: 5.38 lbs
+    fish: 4
+    points: '3.15'
+  - name: Timmy E.
+    weight: 4.13 lbs
+    fish: 4
+    points: '2.15'
+  - name: Paxton S.
+    weight: 2.86 lbs
+    fish: 2
+    points: '2.00'
+  - name: Tony E.
+    weight: 2.43 lbs
+    fish: 4
+    points: '2.00'
+  - name: Josh V.
+    weight: 1.78 lbs
+    fish: 1
+    points: '2.00'
+  - name: Sam H.
+    weight: 1.77 lbs
+    fish: 3
+    points: '2.00'
+  - name: Treh R.
+    weight: 1.03 lbs
+    fish: 3
+    points: '2.00'
+  - name: Brian S.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  - name: Piper J.
+    weight: 0.00 lbs
+    fish: 0
+    points: '1.00'
+  team: true
+  team_results:
+  - team: Josh & Justin
+    weight: 9.71 lbs
+  - team: Harley & Charles
+    weight: 8.58 lbs
+  - team: Timmy & Dan
+    weight: 7.21 lbs
+  - team: Dave & Sam
+    weight: 6.59 lbs
+  - team: Jon & Treh
+    weight: 5.96 lbs
+  - team: Paxton & Brian
+    weight: 2.86 lbs
+  - team: Tony & Piper
+    weight: 2.43 lbs
 - id: 29
   lake: Mead Lake
   date: Saturday August 29th

@@ -47,7 +47,7 @@
                   <p class="small">
                     <br/>
                     For past results go 
-                    <a href="{{site.url}}/past-results/index.html">here</a>
+                    <a href="{{ site.baseurl }}/past-results/index.html">here</a>
                   </p>
               </div>
             {% endif %}
@@ -74,7 +74,8 @@
                   <th>Tournaments</th>
                 </tr>
               </thead>
-              {% for results in include.data.standings %}
+              {% assign standings = include.data.standings.standings | default: include.data.standings %}
+              {% for results in standings %}
                 <tr>
                   <td>
                     {{ results.name }} 
@@ -168,6 +169,9 @@
                             </tr>
                             {% endfor %}
                         </table>
+                        <p>
+                            {{ t.big_bass}}
+                        </p>
                         {% assign dqed = t.results | where: "disqualified", true %}
                         {% if dqed.size > 0 %}
                           <small>* {{ dqed[0].notes }}</small>
