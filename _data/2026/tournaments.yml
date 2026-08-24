@@ -354,6 +354,12 @@
   heavy_hitters: false
   team: false
   championship: false
+  meeting: 7:10 am
+  period1: 8:00 - 11:00 am
+  period2: 12:30 - 3:30 pm
+  landing: Mead Lake Campground
+  landing_link: https://www.google.com/maps/place/44°47'36.4%22N+90°45'31.9%22W/@44.7934535,-90.761446,731m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d44.7934535!4d-90.7588711?hl=en&entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D
+  awards: 4:00 pm
 - id: 30
   lake: Holcombe Flowage
   date: Saturday September 26th
