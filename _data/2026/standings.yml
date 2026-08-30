@@ -26,21 +26,27 @@ standings:
 - name: Harley E.
   points: '17.43'
   tournaments: 5
+  qualified: true
 - name: Charles V.
   points: '17.40'
   tournaments: 5
+  qualified: true
 - name: Timmy E.
   points: '14.19'
   tournaments: 5
+  qualified: true
 - name: Sam H.
   points: '10.36'
   tournaments: 5
+  qualified: true
 - name: Treh R.
   points: '8.89'
   tournaments: 5
+  qualified: true
 - name: Josh V.
   points: '8.00'
   tournaments: 5
+  qualified: true
 - name: Jed B.
   points: '7.36'
   tournaments: 3
